@@ -1,6 +1,7 @@
 <!-- Page Content -->
-
-    {% for post in site.posts %}
+{% for post in site.posts %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
       <div class="content-section-a">
 
         <div class="container">
@@ -23,8 +24,31 @@
 
     </div>
     <!-- /.content-section-a -->
-    {% endfor %}
-  </ul>
+    {% else %}
+      <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2>
+                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                    {{ post.description }}
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="img/{{ post.img }}" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+    {% endif %}
+{% endfor %}
 
 <div class="container">
   <div class="row">
