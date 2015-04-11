@@ -6,7 +6,7 @@ description: > # This site reviews the Calving Cameras Systems available.
   you want to install. It also describes how to set up and configure a 
   Calving Camera System for DIY people who want to intall the cameras 
   by them selves.
-baseurl: "/calvingcamerareviews/" # the subpath of your site, e.g. /blog/
+baseurl: "/calvingcamerareviews" # the subpath of your site, e.g. /blog/
 url: "http://jholleran.github.io" # the base hostname & protocol for your site
 twitter_username: JarlathHolleran
 github_username:  jholleran
