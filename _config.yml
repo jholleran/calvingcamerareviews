@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Calving Camera Reviews
+email: jarlath.holleran@gmail.com
+description: > # This site reviews the Calving Cameras Systems available. 
+  It gives advice about what to think about when desciding the type of system that
+  you want to install. It also describes how to set up and configure a 
+  Calving Camera System for DIY people who want to intall the cameras 
+  by them selves.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://calvingcamerareviews.com" # the base hostname & protocol for your site
+twitter_username: JarlathHolleran
+github_username:  jholleran
 
 # Build settings
 markdown: kramdown
