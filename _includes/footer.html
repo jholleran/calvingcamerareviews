@@ -2,18 +2,8 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
-                <ul class="list-inline">
-                  {% for page in site.pages %}
-                    {% if page.title %}
-                      <li>
-                        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                        <li class="footer-menu-divider">&sdot;</li>
-                      </li>
-                    {% endif %}
-                  {% endfor %}
-                </ul>
-                <p class="copyright text-muted small">Copyright &copy; {{ site.title }} All Rights Reserved</p>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <p class="copyright text-muted">Copyright &copy; {{ site.title }} 2015</p>
             </div>
         </div>
     </div>
