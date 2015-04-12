@@ -1,7 +1,36 @@
 ---
-layout: landing
-landingTitle: Calving Cameras
-subLandingTitle: A Calving Camera Review Site
+layout: default
+title: Calving Cameras
+subTitle: A Calving Camera Review Site
 bg-img: home-bg.jpg
 ---
 
+{% for post in site.posts %}
+    <div class="post-preview">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <h2 class="post-title">
+                {{ post.title }}
+            </h2>
+            <h3 class="post-subtitle">
+                {{ post.description }}
+            </h3>
+        </a>
+        <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
+    </div>
+    <hr>        
+{% endfor %}
+
+<!-- Pager -->
+<ul class="pager">
+    <li class="next">
+        <a href="#">Older Posts &rarr;</a>
+    </li>
+</ul>
+
+<hr>
+
+<div class="container">
+  <div class="row">
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </div>
+</div>

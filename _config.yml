@@ -8,6 +8,7 @@ description: > # This site reviews the Calving Cameras Systems available.
   by them selves.
 baseurl: "/calvingcamerareviews" # the subpath of your site, e.g. /blog/
 url: "http://jholleran.github.io" # the base hostname & protocol for your site
+author: Jarlath Holleran
 twitter_username: JarlathHolleran
 github_username:  jholleran
 

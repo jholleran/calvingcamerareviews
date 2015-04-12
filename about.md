@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 title: About
+subTitle: What is this site about?
 permalink: /about/
-landingTitle: About
-subLandingTitle: What is it?
 bg-img: about-bg.jpg
 ---
 

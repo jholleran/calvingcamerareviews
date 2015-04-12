@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 title: Contact
+subTitle: Fill out the form bellow if you have a question.
 permalink: /contact/
-landingTitle: Contact Me
-subLandingTitle: fill out the form bellow if you have a question.
 bg-img: contact-bg.jpg
 ---
 
