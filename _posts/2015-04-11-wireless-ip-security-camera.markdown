@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Calving Camera"
-subTitle:  "Installing A Farm Calving Camera"
+title:  "IP Camera"
+subTitle:  "Wireless IP Security Camera"
 date:   2015-04-11 17:07:16
-bg-img: about-bg.jpg
+bg-img: home-bg.jpg
 img: calving-camera.jpg
 description: |
   Calving Camera System information...
