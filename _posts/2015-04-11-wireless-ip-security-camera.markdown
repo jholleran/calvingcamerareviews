@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "IP Camera"
-subTitle:  "Wireless IP Security Camera"
+heading:  "IP Camera"
+subHeading:  "Setting Up a Wireless IP Security Camera"
 date:   2015-04-11 17:07:16
 bg-img: home-bg.jpg
 img: calving-camera.jpg

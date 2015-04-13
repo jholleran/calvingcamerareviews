@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Calving Camera"
-subTitle:  "Installing A Farm Calving Camera"
+heading:  "Calving Camera"
+subHeading:  "Installing A Farm Calving Camera"
 date:   2015-04-11 17:07:16
 bg-img: about-bg.jpg
 img: calving-camera.jpg

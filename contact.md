@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Contact
 subTitle: Fill out the form bellow if you have a question.
 permalink: /contact/

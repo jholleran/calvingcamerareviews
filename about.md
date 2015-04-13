@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About
 subTitle: What is this site about?
 permalink: /about/
