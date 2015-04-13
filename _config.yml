@@ -11,6 +11,7 @@ url: "http://jholleran.github.io" # the base hostname & protocol for your site
 author: Jarlath Holleran
 twitter_username: JarlathHolleran
 github_username:  jholleran
+facebook_username: jarlath.holleran
 
 # Build settings
 markdown: kramdown
