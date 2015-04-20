@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calving Cameras
+title: Calving Cameras Systems
 subTitle: A Calving Camera Review Site
 bg-img: home-bg.jpg
 ---
@@ -15,12 +15,13 @@ bg-img: home-bg.jpg
                 {{ post.description }}
             </h3>
         </a>
-        <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
+        <p class="post-meta">Posted by <a href="#">{% if post.author %}{{ post.author }}{% else %}{{site.author}}{% endif %}</a> on {{ post.date | date: "%b %-d, %Y" }}</p>
     </div>
     <hr>        
 {% endfor %}
 
-<!-- Pager -->
+<!-- Pager 
+
 <ul class="pager">
     <li class="next">
         <a href="#">Older Posts &rarr;</a>
@@ -28,6 +29,7 @@ bg-img: home-bg.jpg
 </ul>
 
 <hr>
+-->
 
 <!--
 

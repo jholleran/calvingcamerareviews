@@ -1,8 +1,8 @@
 ---
 layout: post
-heading:  "IP Camera"
-subHeading:  "Setting Up a Wireless IP Security Camera"
-date:   2015-04-11 17:07:16
+heading:  "Wireless Calving Camera"
+subHeading:  "Setting Up a Wireless IP Calving Camera"
+date:   2015-04-10 17:07:16
 bg-img: home-bg.jpg
 img: calving-camera.jpg
 description: |

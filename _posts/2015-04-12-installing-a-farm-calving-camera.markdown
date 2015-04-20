@@ -2,7 +2,7 @@
 layout: post
 heading:  "Calving Camera"
 subHeading:  "Installing A Farm Calving Camera"
-date:   2015-04-11 17:07:16
+date:   2015-04-12 17:07:16
 bg-img: about-bg.jpg
 img: calving-camera.jpg
 description: |
