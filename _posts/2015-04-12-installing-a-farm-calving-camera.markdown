@@ -1,20 +1,20 @@
 ---
 layout: post
-heading:  "Calving Camera"
-subHeading:  "Installing A Farm Calving Camera"
+heading:  "Installing a Calving Camera"
+subHeading:  "Step by step guide for setting up a Farm Calving Camera"
 date:   2015-04-12 17:07:16
 bg-img: calving-camera-creevagh.jpg
 img: calving-camera.jpg
 description: |
-  A step by step guide on what needs to be done to set up a Calving Camera System. Gives you an overview on all the different types and offers advice on the best tpye of Calving Camera System that is right for you. 
+  A step by step guide on what needs to be done to set up a Calving Camera System. 
 
 
 categories: cameras
 ---
 
 #Decide on the type of Camera 
-- [Analog CCTV Camera](#Analog CCTV Camera System)
-- IP Camera
+- [Analog CCTV Camera](/calvingcamerasystems/cctv/2015/04/23/analog-cctv-system.html)
+- IP Camera System
 - Analog CCTV vrs IP Cameras
 - Number of cameras
 
