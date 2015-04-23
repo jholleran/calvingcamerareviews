@@ -6,15 +6,16 @@ date:   2015-04-12 17:07:16
 bg-img: calving-camera-creevagh.jpg
 img: calving-camera.jpg
 description: |
-  Calving Camera System information...
+  A step by step guide on what needs to be done to set up a Calving Camera System. Gives you an overview on all the different types and offers advice on the best tpye of Calving Camera System that is right for you. 
 
 
 categories: cameras
 ---
 
-#Decide on the type of camera 
-- CCTV Camera
+#Decide on the type of Camera 
+- [Analog CCTV Camera](#Analog CCTV Camera System)
 - IP Camera
+- Analog CCTV vrs IP Cameras
 - Number of cameras
 
 #What Camera view point do you need 
