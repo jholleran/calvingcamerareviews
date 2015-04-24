@@ -10,4 +10,4 @@ This site is dedicated to providing the best free information about Calving Came
 
 All the information on this site is free and is a working progress. We will be adding more and more information to this site going forward.
 
-If you have and questions about any of the content, or would like to give some feeback about how this site could be improved then please don't hesitate to [contact me](/calvingcamerasystems/contact).
+If you have and questions about any of the content, or would like to give some feeback about how this site could be improved then please don't hesitate to [contact me]({{site.baseurl}}/contact).
