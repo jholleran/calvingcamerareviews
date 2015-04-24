@@ -13,8 +13,8 @@ categories: cameras
 ---
 
 #Decide on the type of Camera 
-- [Analog CCTV Camera]({{site.baseurl}}/cctv/2015/04/23/analog-cctv-system.html)
-- IP Camera System
+- [Analog CCTV Camera]({{site.baseurl}}/cctv/2015/04/23/cctv-calving-camera-system.html)
+- [IP Camera System]({{site.baseurl}}/ip/2015/04/24/ip-calving-camera-system.html)
 - Analog CCTV vrs IP Cameras
 - Number of cameras
 
