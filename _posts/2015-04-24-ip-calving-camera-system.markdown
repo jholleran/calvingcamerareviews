@@ -3,10 +3,10 @@ layout: post
 heading:  "Calving Camera System"
 subHeading:  "Setting up an IP Calving Camera"
 date:   2015-04-24 19:55:45
-bg-img: cows-on-pc-2.png
+bg-img: cows-in-pen.jpg
 img: calving-camera.jpg
 description: |
-  All the information you need to know about Analog CCTV camera systems.
+  All the information you need to know about an IP calving camera systems.
 
 
 categories: ip
@@ -30,7 +30,7 @@ Log into your router admin page. There will be a page that will show you all the
 
 Copy this IP address into your browser top URL field and press enter. This should connect to the IP Camera landing page. From there you should be able to see the Video stream from the Camera.
 
-TODO: insert diagram here
+<img src="{{site.baseurl}}/img/wireless-ip-camera-and-pc.jpg" alt="wireless ip camera with router and computer">
 
 If you can't see the IP Camera listed in the Router LAN list then check that the Subnet Mask is the same on both the Camera and the Router. Its usually set to 255.255.255.0.
 
@@ -51,3 +51,5 @@ An Internet Protocal Camera, or IP Camera, are nowadays very popular for surveil
 There are many different types of IP Cameras that you can buy and some can be very expensive. They can be expense as they have high quality picture, they can zoom into very small area. My advice here is to look into where and how you are going to use the camera. If you have a medium sized shed or you only want to surveil a small section (a small calving pen) then a cheap IP camera will be sufficiant and will work well. If you later want to view a larger area then you can upgrade the camera only to a more expensive and high quality one.
 
 The great thing about having an IP Camera is that it is compatable with a lot of different devices. For example; Smarth Phones. There are lots of Apps that can be download so that you can connect your phone to the IP Camera. This is very useful for you to check your cows anytime you want to. 
+
+<img src="{{site.baseurl}}/img/cows-on-ipad.jpg" alt="viewing a calving camera on an ipad">

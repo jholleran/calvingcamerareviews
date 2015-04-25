@@ -6,7 +6,7 @@ date:   2015-04-23 21:28:16
 bg-img: calving-camera-creevagh.jpg
 img: calving-camera.jpg
 description: |
-  All the information you need to know about Analog CCTV camera systems.
+  All the information you need to know about Analog CCTV calving camera systems.
 
 
 categories: cctv
@@ -28,7 +28,8 @@ Instead of a Video Splitter a [DVR (Digital Video Recorder)](#insert dvr link) c
 ##Setup
 Connect the Cameras to the Video Slitter with a Coaxial Cable. Plug the Camera and Video Splitter power cables in. Connect the Video Splitter to your TV with another Coaxial Cable. Tune your TV to find the Video channel. When you find the channel the Video from the camera should be displayed.
 
-TODO: insert diagram here
+<img src="{{site.baseurl}}/img/cctv-camera-system.jpg" alt="cctv camera system with four cameras">
+
 
 ##Advantages
 - Easy to setup and install
