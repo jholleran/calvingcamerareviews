@@ -3,7 +3,7 @@ layout: post
 heading:  "Calving Camera System"
 subHeading:  "Setting up an IP Calving Camera"
 date:   2015-04-24 19:55:45
-bg-img: three-cows-in-shed.jpg
+bg-img: cows-on-pc-2.png
 img: calving-camera.jpg
 description: |
   All the information you need to know about Analog CCTV camera systems.
