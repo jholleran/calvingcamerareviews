@@ -6,7 +6,7 @@ date:   2015-04-24 19:55:45
 bg-img: cows-in-pen.jpg
 img: calving-camera.jpg
 description: |
-  Information about how to set up and install an IP Calving Camera Systems. The documents the steps that are needed to configure the IP Calving Camera to allow it to be connected via a Laptop or PC. It also offers help and advice about the system.
+  Information about how to set up and install an IP Calving Camera Systems. It documents the steps that are needed to configure the IP Calving Camera to allow it to be connected via a Laptop or PC. It also offers help and advice about the system.
 
 
 categories: ip
