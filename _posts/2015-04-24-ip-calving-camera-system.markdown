@@ -32,6 +32,8 @@ Copy this IP address into your browser top URL field and press enter. This shoul
 
 <img src="{{site.baseurl}}/img/wireless-ip-camera-and-pc.jpg" alt="wireless ip camera with router and computer">
 
+<img src="{{site.baseurl}}/img/live-cows-from-camera.gif" alt="wireless ip camera with router and computer">
+
 If you can't see the IP Camera listed in the Router LAN list then check that the Subnet Mask is the same on both the Camera and the Router. Its usually set to 255.255.255.0.
 
 ##Advantages

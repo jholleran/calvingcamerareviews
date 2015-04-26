@@ -18,20 +18,20 @@ categories: cameras
 - Analog CCTV vrs IP Cameras
 - Number of cameras
 
-#What Camera view point do you need 
+#What Camera view point do you need?
 - Static view
-- PTZ
+- [PTZ]({{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.html)
 - Video quality
 
 #Configuring the Camera
 - Test the Camera
 
-#Figure out how to transmit the Camera video to destination
-Cable 
+#Transmitting the Camera video to destination
+- Cables
 - Wireless transmission
 - Directional antennas
 - Distance Required
-- Line of sight
+- Line of Sight
 - Testing the wireless connection and speed
 
 #What Video display do you want
