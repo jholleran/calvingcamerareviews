@@ -13,7 +13,7 @@ categories: cameras
 
 #Ideas for future blog posts
 
-- Night Vision
+- Night Vision Cameras
 - Wireless Transmission
 - Recording Video from Camera
 - 3G & 4G Camera Systems
@@ -24,3 +24,5 @@ categories: cameras
 - Protecting system from lighting
 - Wiring safety
 - Waterproof System
+- Farm security Cameras
+- Number plate detection Cameras
