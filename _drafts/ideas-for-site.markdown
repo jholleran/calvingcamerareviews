@@ -6,7 +6,7 @@ date:   2015-04-29 21:36:00
 bg-img: three-cows-in-shed.jpg
 img: dome-camera.jpg
 description: |
-  All the information you need to know about Bullet Calving Camera Systems.
+  Temp post for ideas for this site.
 
 categories: cameras
 ---
