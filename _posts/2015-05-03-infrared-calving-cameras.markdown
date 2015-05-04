@@ -10,14 +10,18 @@ description: |
 categories: cameras
 ---
 
-Cameras can come with Infrared built in, giving the Camera Nightvision. It gives the ability to view the video, from the camera, in low light or complete darkness. Durning the day when there is plenty of light the camera works as normal but when the light goes below a certain level the Infrared kick in. 
+Cameras can come with Infrared built in, giving the camera Night Vision. Infrared Cameras (IR) gives the ability to view the video, from the camera, in low light or complete darkness. During the day when there is plenty of light the camera works as normal but when the light goes below a certain level the Infrared kick in. 
 Having Infrared in a Calving Camera is very useful so that you can view your animals in your shed with out having the lights turned on.
 
-Here is a sample of what Nightvision Infrared Camera picture looks like.
+Both CCTV and IP Cameras can have Infrared built in. Infrared Camers has IR Leds on the outer edge of the camera which give the camera Night Vision.
+
+<img src="{{site.baseurl}}/img/ir-camera-leds.jpg" alt="infrared night vision camera leds">
+
+Here is a sample of what Night Vision Infrared Camera picture looks like:
 
 <img src="{{site.baseurl}}/img/infrared-night-camera.png" alt="infrared night vision camera">
 
-The picture quailty will not be as good as viewing durning day light. The picture will be in black and white and not everything will be viewable, such as objects in a distance, but it can be enough to give you an idea of what is going on.
+The picture quailty will not be as good as viewing durning day light. The picture will be in black and white and not everything will be viewable, such as objects in a distance, but it can be enough to give you an idea of what is going on. Always check the distance that the IR Leds can view on the camera. The product details should contain this information. Some cameras can view only 25 meters night vision other can view 100 meters.
 
-Without Infrared Nightvision you would need to keep the lights on in your shed at night which will increase your electricity bill.
+Without Infrared Night Vision you would need to keep the lights on in your shed at night which will increase your electricity bill.
 
