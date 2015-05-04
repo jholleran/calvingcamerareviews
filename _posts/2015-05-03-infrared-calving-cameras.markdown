@@ -2,7 +2,7 @@
 layout: post
 heading:  "Infrared Calving Cameras"
 subHeading:  "Viewing your Cattle in low light or darkness"
-date:   2015-04-29 21:36:00
+date:   2015-05-03-20:00:00
 bg-img: infrared-camera.png
 description: |
   Using Infrared Cameras to view your Cattle in low light or darkness.
