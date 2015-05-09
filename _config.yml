@@ -7,7 +7,7 @@ description: > #
   the type of Calving Camera System that you want to install. It also
   describes how to set up and configure a many different types of 
   Calving Camera System.
-baseurl: "/calvingcamerasystems" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jholleran.github.io" # the base hostname & protocol for your site
 author: Jarlath Holleran
 twitter_username: JarlathHolleran
