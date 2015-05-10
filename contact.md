@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-subTitle: Fill out the form bellow if you have a question.
+subTitle: Questions or feedback
 permalink: /contact/
 bg-img: contact-bg.jpg
 ---
