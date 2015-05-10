@@ -19,11 +19,11 @@ categories: ip
 - Wifi Router
 - RJ45 Cat6 Ethernet Cable
 
-<img src="{{site.baseurl}}/img/simple-ip-camera-connection-diagram.png" alt="simple IP Camera connection diagram with RJ45 cable">
+<img src="{{site.baseurl}}/img/ip-camera-wired-connection-diagram.png" alt="IP Camera connection diagram with RJ45 cable">
 
 Many of the IP Camera nowadays have a Wifi antenna included. With this there is no need for the Ethernet Cable. The IP Camera will connect to the Wifi Router through Wifi. You may already have a Wifi Router in your home that you use to connect up to the internet. If so, there may not be a need to purchase another one. The Wifi Router acts as a bridge between the IP Camera and you PC. If your PC has WIFI then it can wirelessly connect to the Router, or just use an Ethernet Cable to connect the two.
 
-#TODO insert connection diagram here
+<img src="{{site.baseurl}}/img/ip-camera-wireless-connection-diagram.png" alt="Wirless IP Camera connection diagram with no cables">
 
 The IP camera will need to be in range of the Router. If the Router is a standard one then this range will not be very far, usually around 20-30 meters. Also, if the distance between the Shed, where the IP Camera will be fitted, and the house, where you want to view the video, is far away and is not possible to run a Ethernet Cable (greater 100 meters) you should consider [transmit the video with wireless wifi](#TODO insert link).
 
