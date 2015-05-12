@@ -26,3 +26,6 @@ analytics :
   provider : google 
   google : 
     tracking_id : 'UA-54134529-2'
+
+gems:
+  - jekyll-sitemap
