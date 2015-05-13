@@ -19,6 +19,18 @@ layout: default
 	    </div>
 	</header>
 
+	<script type="application/ld+json">
+		{ "@context": "http://schema.org",
+		"@type": "Article",
+		"headline": "{{ page.heading }}",
+		"alternativeHeadline": "{{ page.subHeading }}",
+		"image": "{{ page.bg-img }}",
+		"author": "{% if page.author %}{{ page.author }}{% else %}{{site.author}}{% endif %}",
+		"datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
+		"description": "{{ page.description }}"
+		}
+	</script>
+
   	<!-- Post Content -->
     <article>
         <div class="container">
