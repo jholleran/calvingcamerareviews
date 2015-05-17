@@ -26,3 +26,7 @@ categories: cameras
 - Waterproof System
 - Farm security Cameras
 - Number plate detection Cameras
+- 200 meters wireless camera system
+- 500 meters
+- 1000 meters
+- 2 - 3 km 

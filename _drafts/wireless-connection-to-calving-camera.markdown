@@ -1,6 +1,6 @@
 ---
 layout: post
-heading:  "Wireless connection to Calving Camera"
+heading:  "Wireless Calving Camera"
 subHeading:  "Long distance between House to Shed"
 date:   2015-05-07 21:00:00
 bg-img: cow-and-calf-creevagh.png
@@ -20,10 +20,15 @@ Directional antennas are and excellent choice for use in a Calving Camera System
 
 Directional antennas can be used in a CCTV or an IP Camera Systems. There is a difference between the setup for a CCTV and for IP systems. For a CCTV system only a one way signal is needed but with an IP system two way communication is needed.
 
-Here is a diagram of Calving Camera System using Directional antennas.
-<img src="{{site.baseurl}}/img/long-range-wifi-cover-pic.png" alt="long range wifi connection">
+<img src="{{site.baseurl}}/img/long-range-cctv.png" alt="long range cctv system">
 
 Two antennas are fitted outside the two building (Shed and House) facing each other. The higher up they are the better as to avoid obstructing buildings. Having a clear line of sight between the antennas well help to avoid any interference to the signal.
 
-#CCTV Setup
+#Long Range Wireless CCTV Setup
 In a CCTV wireless setup there will be one transmitting Antenna and one receiving Antenna. The Camera will be connected to a Transmitter and the Transmitter is connected on one of the Directional Antenna. On the other side the Directional Antenna is connected to a Receiver and the Receiver can be connected to a TV or a DVR.
+Some Antennas can come with the Transmitter and Receivers built in which makes the system very simple.
+
+#Long Range Wireless IP Setup
+IP Directional Antennas contain a transmitter and a receiver. This means there is two way communication between two IP Antennas. Two way communication is important if you wish to use a PTZ IP Camera and control the viewing angle for the camera remotely. 
+IP Antenna are very simple to connect together. On one side, the IP Camera plugs directly into one of the Directional IP Antenna with a Ethernet cable. One the other, the second Directional Antenna plugs directly in a Router with another Ethernet Cable. From there, your PC or laptop can connect to the Router with an Ethernet cable or wirelessly.
+
