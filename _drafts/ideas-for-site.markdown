@@ -29,4 +29,5 @@ categories: cameras
 - 200 meters wireless camera system
 - 500 meters
 - 1000 meters
-- 2 - 3 km 
+- 2 - 3 km
+- POE antennas and POE cameras. Less cables 
