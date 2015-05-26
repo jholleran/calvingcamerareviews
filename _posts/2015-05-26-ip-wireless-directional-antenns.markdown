@@ -3,7 +3,7 @@ layout: post
 heading:  "IP Directional Antennas"
 subHeading:  "IP Wireless Directional Antennas"
 date:   2015-05-26 22:40:00
-bg-img: calving-camera-creevagh.jpg
+bg-img: home-bg.jpg
 description: |
   Building a Calving Camera System with a IP Directional Antenna for long distances between the Shed and the House. This article describes how to set Directional Antennaa up and how to integrate them with IP Cameras.
 
