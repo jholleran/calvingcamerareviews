@@ -27,4 +27,4 @@ Two antennas are fitted outside the two building (Shed and House) facing each ot
 The Camera is connected into the Directional Antenna in the Shed and transmits the video, as radio waves, to the other Directional Antenna, which will receives the video, and is connected into the TV to be displayed.
 
 
-In a later post I will go into detail about the type of Antennas that can be used and how to set them up. If you want to get notifications of these post you can follow us on Twitter or friend us up on Facebook using the link bellow.
+In a later post I will go into detail about the type of Antennas that can be used and how to set them up. If you want to get notifications of these post you can follow us on Twitter or friend us up on Facebook using the links bellow.
