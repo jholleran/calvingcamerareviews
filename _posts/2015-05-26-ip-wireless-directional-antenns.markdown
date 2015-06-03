@@ -1,11 +1,12 @@
 ---
 layout: post
-heading:  "IP Directional Antennas"
+heading:  "Directional Antennas"
 subHeading:  "IP Wireless Directional Antennas"
 date:   2015-05-26 22:40:00
-bg-img: home-bg.jpg
+bg-img: ip-directional-antennas-bg.png
+text-color: gray
 description: |
-  Building a Calving Camera System with a IP Directional Antenna for long distances between the Shed and the House. This article describes how to set Directional Antenna up and how to integrate them with IP Cameras.
+  Building a Calving Camera System with a IP Directional Antenna for long distances between the Shed and the House. This article describes how to set a Directional Antenna up and how to integrate them with IP Cameras.
 
 categories: wireless
 ---
@@ -36,5 +37,5 @@ Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set
 ##Ubiquiti NanoStation loco M2
 These antenna can be purchased on Amazon and are reasonably priced. Here is a link to one of them:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B004EGI3CI&asins=B004EGI3CI&linkId=NACNL6576ZSEOJ4Y&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3" />
-
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B004EGI3CI&asins=B004EGI3CI&linkId=NACNL6576ZSEOJ4Y&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3" >
+</iframe>

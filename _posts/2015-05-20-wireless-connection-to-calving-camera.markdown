@@ -2,7 +2,7 @@
 layout: post
 heading:  "Wireless Calving Camera"
 subHeading:  "Long distance between House to Shed"
-date:   2015-05-20 21:00:00
+date: 2015-05-20 21:00:00
 bg-img: cow-and-calf-creevagh.png
 description: |
   Connecting the Shed to the House using long range Wifi.
