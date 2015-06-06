@@ -3,8 +3,8 @@ layout: post
 heading:  "PTZ Cameras"
 subHeading:  "Pan, Tilt & Zoom Cameras"
 date:   2015-04-26 16:17:00
-bg-img: cows-in-pen.jpg
-img: calving-camera.jpg
+bg-img: ptz-camera.png
+text-color: gray
 description: |
   The advantages of PTZ Cameras over static Cameras.
 
