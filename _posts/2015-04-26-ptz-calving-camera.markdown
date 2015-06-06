@@ -33,3 +33,9 @@ The most common, and popular, type of Camera with PTZ functionality is an [IP Ca
 - Need to have a two way communication between Camera and Computer
 - More expensive than static Camera
 
+
+##Foscam FI8919W Outdoor Wireless PTZ IP Camera
+PTZ Cameras can be purchased on Amazon and are reasonably priced. Here is a link to one of them:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B008O5BIWW&asins=B008O5BIWW&linkId=X7V3PF5IHPXV7H4D&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
+</iframe>
