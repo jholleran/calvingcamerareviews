@@ -19,9 +19,14 @@ Directional Antennas transmit radio waves in a single direction. The signal will
 ##Set Up
 IP Directional Antennas are very simple to connect together. On one side, the IP Camera plugs directly into one of the Directional IP Antenna with a Ethernet cable. One the other, the second Directional Antenna plugs directly in a Router, PC, or Laptop with another Ethernet Cable. When the antennas are set up to communicate with one another you will be able to connect to the camera from your PC or Laptop.
 
+Here is a connection diagram of how the Direction Antennas are integrated into the Calving Camera System.
 
-<img src="{{site.baseurl}}/img/ip-camera-antenna-connection-diagram.png" alt="long range cctv system">
 
+<figure>
+  <img src="{{site.baseurl}}/img/ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Directional Antennas">
+  <figcaption style="text-align: center;">IP Calving Camera System with Directional Antennas</figcaption>
+</figure>
+<br>
 
 ##Ubiquiti NanoStation
 The <a href="http://www.amazon.com/gp/product/B004EGI3CI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004EGI3CI&linkCode=as2&tag=jhollerano-20&linkId=APRWR6VNXX5WNQRM">Ubiquiti NanoStation loco M2</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=jhollerano-20&l=as2&o=1&a=B004EGI3CI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a very good, plug and play, product that is very simple to integrate with most IP Cameras, and other network devices. 
