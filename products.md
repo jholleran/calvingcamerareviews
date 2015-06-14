@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: product
 title: Products
 subTitle: Calving Camera Kits
 permalink: /products/
