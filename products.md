@@ -1,7 +1,5 @@
 ---
-layout: product
-title: Products
-subTitle: Calving Camera Kits
+layout: page
 permalink: /products/
 text-color: gray
 ---

@@ -1030,3 +1030,31 @@ jQuery(document).ready(function($) {
             });
     }
 });
+
+
+/**
+ * Rating System
+ */
+$(function () {
+  'use strict';
+  $.each($('.stars'), function () {
+    var id = $(this).attr('id');
+    var slug = id.replace('rating-', '');
+    var rating = $(this).attr('data-rating');
+    var suspended = $(this).attr('data-suspended');
+    var starBig = $(this).attr('data-star-big');
+
+    if (starBig === 'Yes') {
+      $.fn.raty.defaults.starHalf = 'star-half-big.png';
+      $.fn.raty.defaults.starOn = 'star-on-big.png';
+      $.fn.raty.defaults.starOff = 'star-off-big.png';
+    } 
+
+    $('#' + id).raty({
+      path: '/img',
+      round : { down: 0.25, full: 0.6, up: 0.76 },
+      score: rating,
+      readOnly: true
+    });
+  });
+});
