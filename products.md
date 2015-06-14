@@ -49,10 +49,10 @@ text-color: gray
       </tr>
       <tr>
          <td class="span2">
-            <!-- product image--><a href="/products/ip-camera-2"><img src="/img/products/IP-PTZ-CAM-2.jpg" class="img-polaroid small-img"></a>
+            <!-- product image--><a href="/products/ip-camera-2.html"><img src="/img/products/IP-PTZ-CAM-2.jpg" class="img-polaroid small-img"></a>
          </td>
          <td>
-            <!-- product title--><a href="/products/ip-camera-2"><strong>Camera Dome PTZ Vandalproof Weatherproof IP66 12X [5-60] RF2694/2695/RF2764</strong></a><!-- buy button--><button id="buy-ip-camera-2" data-product-title="Camera Dome PTZ Vandalproof Weatherproof IP66 12X [5-60] RF2694/2695/RF2764" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>300</button>
+            <!-- product title--><a href="/products/ip-camera-2.html"><strong>Camera Dome PTZ Vandalproof Weatherproof IP66 12X [5-60] RF2694/2695/RF2764</strong></a><!-- buy button--><button id="buy-ip-camera-2" data-product-title="Camera Dome PTZ Vandalproof Weatherproof IP66 12X [5-60] RF2694/2695/RF2764" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>300</button>
             <div>
                <!-- product rating--><span id="rating-ip-camera-2" data-rating="5" class="stars" title="gorgeous" style="cursor: default; width: 100px;"><img src="/img/star-on.png" alt="1" title="gorgeous">&nbsp;<img src="/img/star-on.png" alt="2" title="gorgeous">&nbsp;<img src="/img/star-on.png" alt="3" title="gorgeous">&nbsp;<img src="/img/star-on.png" alt="4" title="gorgeous">&nbsp;<img src="/img/star-on.png" alt="5" title="gorgeous"><input type="hidden" name="score" value="5" readonly="readonly"></span><span> 5</span>
             </div>
