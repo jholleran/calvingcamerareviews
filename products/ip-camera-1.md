@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: product
 title: IP Camera
 subTitle: PTZ Calving Camera
 text-color: gray
