@@ -566,3 +566,7 @@ body {
 .btn {
   margin-left: 5px;
 }
+/* old bootstrap styles */
+.hero-unit {
+  background-color: #eeeeee;
+}
