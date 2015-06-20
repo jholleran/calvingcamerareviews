@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: products
 permalink: /products/
 title: Calving Camera Products
-text-color: gray
 ---
 
 <table class="table">
