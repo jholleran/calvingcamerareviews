@@ -23,8 +23,8 @@ slides:
      heading: Combatible with most Mobile devices
      image: /img/major/s8.png
      thumb: /img/major/s8t.jpg
-   - title: Internet
-     heading: Connect System to the Internet
+   - title: Connect to the Internet
+     heading: Access your calving camera system through the Internet
      image: /img/major/s2.png
      thumb: /img/major/s2t.jpg
 ---
