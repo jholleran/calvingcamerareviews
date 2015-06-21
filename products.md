@@ -2,6 +2,31 @@
 layout: products
 permalink: /products/
 title: Calving Camera Products
+slides:
+   - title: Calving Cameras
+     heading: Monitor your cows during calving season
+     text: Keeping a good eye on the welfare of your animals.
+     image: /img/cow-and-calf-creevagh.png
+     thumb: /img/cow-and-calf-creevagh.png
+   - title: Directional Antennas
+     heading: Long Range Wireless Connection
+     text: 
+     link: /wireless/2015/05/26/ip-wireless-directional-antenns.html
+     image: /img/long-range-cctv.png
+     thumb: /img/long-range-cctv.png
+   - title: Remote Viewing
+     heading: Watch your cows in there pens from the comfort of your home.
+     text: 
+     image: /img/cows-in-pen.jpg
+     thumb: /img/cows-in-pen.jpg
+   - title: Mobile Devices
+     heading: Combatible with most Mobile devices
+     image: /img/major/s8.png
+     thumb: /img/major/s8t.jpg
+   - title: Internet
+     heading: Connect System to the Internet
+     image: /img/major/s2.png
+     thumb: /img/major/s2t.jpg
 ---
 
 <table class="table">
