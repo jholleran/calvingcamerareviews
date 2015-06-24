@@ -1,7 +1,8 @@
 ---
-layout: products
+layout: page
 permalink: /products/
 title: Calving Camera Products
+bg-img: products_bg.png
 ---
 
 <table class="table">
