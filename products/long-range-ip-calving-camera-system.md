@@ -4,17 +4,20 @@ slug: ip-camera-1
 title: IP Camera
 subTitle: PTZ Calving Camera
 image: IP-PTZ-CAM-1.jpg
-price: 78
-rating: 2.6
+price: €700.00
+rating: 4.6
 text-color: gray
-description: This is a short description about the PTZ calving Camera
+description: This Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas.
 ---
 
-Network IP Camera with Pan, Tilt &amp; Zoom.
+This Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. The maximum range of this is system 5km.
+
+If you want to get more information about how to set this type of system up see this link: <a href="/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas</a>
 
 
-##Equipment Needed
-Here is a list of the equipement needed if you build this system yourself. 
+The IP Camera has <a href="/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> functions so you can scan 360 degree around the shed. It also has high quality video, so enjoy clear uninterrupted camera footage from your laptop, computor, or smart phone.
+
+Kit Includes:
 
 - 1 IP PTZ Camera
 - 2 Wireless Directional Antennas
@@ -22,7 +25,24 @@ Here is a list of the equipement needed if you build this system yourself.
 - 1 Router
 
 
-You can buy these on Amazon using the following links:
+Buy Now: 
+<div>
+	<button id="buy-long-range-ip-camera" data-product-title="Long Range IP Calving Camera System" role="button" data-toggle="modal" class="btn btn-primary btn-large buy"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}
+    </button>
+</div>
+
+
+---
+
+Here is a list of the equipement needed if you build this system yourself. You can buy these on Amazon using the following links below:
+
+- 1 IP PTZ Camera
+- 2 Wireless Directional Antennas
+- 2 Ethernet Cables (measuse length required)
+- 1 Router
+
+
+
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B008O5BIWW&asins=B008O5BIWW&linkId=X7V3PF5IHPXV7H4D&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
 </iframe>
