@@ -6,7 +6,7 @@
                 <ul class="list-inline text-center">
                     {% if site.google_username %}
                     <li>
-                        <a href="https://plus.google.com/{{ site.google_username }}">
+                        <a href="https://plus.google.com/{{ site.google_username }}" onClick="_gaq.push(['_trackEvent', 'google', 'link', 'Navigated to google plus page from {{ page.title }}.']);">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
