@@ -25,7 +25,7 @@ layout: default
 							</span>
 							<span>{{page.rating}}</span>
 						</p>
-						<button id="{{ page.slug }}" data-game-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-large buy"><i class="icon-shopping-cart icon-white"></i>{{page.price}}</button>
+						<button id="buy-{{ page.slug }}" data-game-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-large buy"><i class="icon-shopping-cart icon-white"></i>{{page.price}}</button>
 					</div>
 				</div>
 			<!--	
@@ -35,6 +35,14 @@ layout: default
 				</small>
 			-->
 			</div>
+			<div class="row">
+				{% for image in page.images %}
+				<div class="col-md-3">
+					<img src="/img/products/{{ image.name }}" id="tooltip-{{ image.tip }}" rel="tooltip" title="{{ image.title }}" class="img-polaroid small-img" />
+				</div>
+				{% endfor %}
+			</div>
+
 			<script type="application/ld+json">
 			{
 				"@context": "http://schema.org",
