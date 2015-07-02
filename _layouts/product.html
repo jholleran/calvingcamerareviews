@@ -20,14 +20,12 @@ layout: default
 							<strong>Title:</strong>
 							<span>{{page.title}}</span>
 							<br>
-							<strong>Price:</strong>
-							<span>{{page.price}}</span>
-							<br>
 							<strong>Rating:&nbsp;</strong>
 							<span class="stars" id="rating-{{ page.slug }}" data-rating="{{page.rating}}" data-suspended="suspended" data-star-big="Yes">
 							</span>
 							<span>{{page.rating}}</span>
 						</p>
+						<button id="{{ page.slug }}" data-game-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-large buy"><i class="icon-shopping-cart icon-white"></i>{{page.price}}</button>
 					</div>
 				</div>
 			<!--	
