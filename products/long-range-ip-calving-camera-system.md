@@ -8,6 +8,20 @@ price: €350.00
 rating: 4.6
 text-color: gray
 description: This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas.
+
+images:
+   - title: IP Camera
+     tip: Keeping a good eye on the welfare of your animals.
+     name: IP-PTZ-CAM-1.jpg
+   - title: Directional Antenna
+     tip: Keeping a good eye on the welfare of your animals.
+     name: two-directional-antennas.jpg
+   - title: Ethernet Cables
+     tip: Keeping a good eye on the welfare of your animals.
+     name: IP-PTZ-CAM-3.jpg
+   - title: Router
+     tip: Keeping a good eye on the welfare of your animals.
+     name: IP-PTZ-CAM-1.jpg
 ---
 
 This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. The maximum range of this is system 5km.
