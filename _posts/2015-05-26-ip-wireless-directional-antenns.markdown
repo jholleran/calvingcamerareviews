@@ -50,4 +50,4 @@ These antennas can be purchased on Amazon and are reasonably priced. Here is a l
 </iframe>
 
 
-If you want to purchase this full system go to the [Products Page](/products/long-range-ip-calving-camera-system.html).
+If you want to purchase this full system go to the [Long Range Calving Camera Product Page](/products/long-range-ip-calving-camera-system.html).

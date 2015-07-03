@@ -33,7 +33,7 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 </figure>
 <br>
 
-###Equipement
+###Equipment
 
 - 1 IP PTZ Camera
 - 1 100 meter Ethernet Cable

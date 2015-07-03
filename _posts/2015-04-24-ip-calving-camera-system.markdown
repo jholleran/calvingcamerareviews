@@ -71,4 +71,4 @@ The great thing about having an IP Camera is that it is compatable with a lot of
 
 <img src="{{site.baseurl}}/img/cows-on-ipad.jpg" alt="viewing a calving camera on an ipad">
 
-If you want to purchase this system go to the [Products Page](/products/short-range-ip-calving-camera-system.html).
+If you want to purchase this system go to the [Short Range Calving Camera Product Page](/products/short-range-ip-calving-camera-system.html).
