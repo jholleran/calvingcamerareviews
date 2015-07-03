@@ -2,7 +2,7 @@
 layout: product
 slug: ip-camera-1
 title: Long Range IP Calving Camera System
-subTitle: PTZ Calving Camera
+subTitle: Long Range IP Calving Camera System
 image: ip-calving-camera-system.png
 price: €350.00
 rating: 4.6
@@ -39,7 +39,7 @@ The IP Camera has <a href="/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> func
 
 - 1 IP PTZ Camera
 - 2 Wireless Directional Antennas
-- 2 25 Ethernet Cables
+- 2 25 meter Ethernet Cables
 - 1 Router
 
 <!--
