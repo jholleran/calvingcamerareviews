@@ -1,7 +1,7 @@
 ---
 layout: product
 slug: ip-camera-1
-title: IP Calving Camera System
+title: Long Range IP Calving Camera System
 subTitle: PTZ Calving Camera
 image: ip-calving-camera-system.png
 price: €350.00

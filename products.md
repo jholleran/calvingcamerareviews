@@ -15,7 +15,10 @@ bg-img: products_bg.png
             <a href="{{ page.url }}"><img src="/img/products/{{ page.image }}" class="img-polaroid small-img"></a>
          </td>
          <td>
-            <!-- product title--><a href="{{ page.url }}"><strong>{{ page.title }}</strong></a><!-- buy button--><button id="buy-ip-camera-1" data-product-title="Wireless PTZ IP Camera" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}</button>
+            <!-- product title--><a href="{{ page.url }}"><strong>{{ page.title }}</strong></a>
+            <!-- buy button-->
+            <!--<button id="buy-ip-camera-1" data-product-title="Wireless PTZ IP Camera" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}</button>
+            -->
             <div>
                <!-- product rating-->
                <span class="stars" id="rating-{{ page.slug }}" data-rating="{{page.rating}}" data-suspended="suspended">
