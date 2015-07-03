@@ -10,17 +10,13 @@ text-color: gray
 description: This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas.
 
 images:
-   - title: IP Camera
-     tip: Keeping a good eye on the welfare of your animals.
+   - title: IP Camera with Pan\Tilt & Zoom functionality.
      name: ip-camera.jpg
-   - title: Directional Antenna
-     tip: Keeping a good eye on the welfare of your animals.
+   - title: Long range Directional Antennas.
      name: two-directional-antennas.jpg
-   - title: Ethernet Cables
-     tip: Keeping a good eye on the welfare of your animals.
+   - title: Connect equipement with ethernet cables.
      name: 25-ethernet-cable.jpg
-   - title: Router
-     tip: Keeping a good eye on the welfare of your animals.
+   - title: Router to connect system to PC or Laptop.
      name: router.jpg
 ---
 

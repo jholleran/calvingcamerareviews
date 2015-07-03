@@ -40,7 +40,7 @@ layout: default
 			<div class="row">
 				{% for image in page.images %}
 				<div class="col-md-3">
-					<img src="/img/products/{{ image.name }}" id="tooltip-{{ image.tip }}" rel="tooltip" title="{{ image.title }}" class="img-polaroid small-img" />
+					<img src="/img/products/{{ image.name }}" id="tooltip-{{ image.slug }}" rel="tooltip" title="{{ image.title }}" class="img-polaroid small-img" />
 				</div>
 				{% endfor %}
 			</div>
