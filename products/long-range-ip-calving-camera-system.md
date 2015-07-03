@@ -4,7 +4,7 @@ slug: long-range-ip-camera
 title: Long Range IP Calving Camera System
 subTitle: Long Range IP Calving Camera System
 image: ip-calving-camera-system.png
-price: €350.00
+price: €335.00
 rating: 4.6
 text-color: gray
 description: This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas.
