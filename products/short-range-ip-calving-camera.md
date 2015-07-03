@@ -1,28 +1,26 @@
 ---
 layout: product
-slug: long-range-ip-camera
-title: Long Range IP Calving Camera System
-subTitle: Long Range IP Calving Camera System
-image: ip-calving-camera-system.png
-price: €350.00
-rating: 4.6
+slug: short-range-ip-camera
+title: Short Range Calving Camera System
+subTitle: Short Range PTZ IP Calving Camera System
+image: short-range-ip-calving-camera-system.png
+price: €250.00
+rating: 4.4
 text-color: gray
-description: This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas.
+description: IP Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. Ideal when there is not a large distance from house to the shed.
 
 images:
    - title: IP Camera with Pan\Tilt & Zoom functionality.
      name: ip-camera.jpg
-   - title: Long range Directional Antennas.
-     name: two-directional-antennas.jpg
    - title: Connect equipement with ethernet cables.
      name: 25-ethernet-cable.jpg
    - title: Router to connect system to PC or Laptop.
      name: router.jpg
 ---
 
-{{ page.description }} The maximum range of this is system 5km.
+{{ page.description }}
 
-If you want to get more information about how to set this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas</a>
+If you want to get more information about how to set this type of system see this link: <a href="{{site.baseurl}}/ip/2015/04/24/ip-calving-camera-system.html">IP Calving Camera System</a>
 
 
 The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> functions so you can scan 360 degree around the shed. It also has high quality video, so enjoy clear uninterrupted camera footage from your laptop, computor, or smart phone.
@@ -30,16 +28,15 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 
 ###Connection Diagram
 <figure>
-  <img src="{{site.baseurl}}/img/ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Directional Antennas">
-  <figcaption style="text-align: center;">IP Calving Camera System with Directional Antennas</figcaption>
+	<img src="{{site.baseurl}}/img/ip-camera-wired-connection-diagram.png" alt="IP Camera connection diagram with RJ45 cable">
+	<figcaption style="text-align: center;">IP Camera connection diagram with RJ45 cable</figcaption>
 </figure>
 <br>
 
 ###Equipement Needed:
 
 - 1 IP PTZ Camera
-- 2 Wireless Directional Antennas
-- 2 25 meter Ethernet Cables
+- 1 100 meter Ethernet Cable
 - 1 Router
 
 <!--
@@ -51,9 +48,6 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 -->
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B008O5BIWW&asins=B008O5BIWW&linkId=X7V3PF5IHPXV7H4D&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
-</iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B004EGI3CI&asins=B004EGI3CI&linkId=NACNL6576ZSEOJ4Y&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3" >
 </iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B00QELK40K&asins=B00QELK40K&linkId=KYMLRVF6NPZZLD7F&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
