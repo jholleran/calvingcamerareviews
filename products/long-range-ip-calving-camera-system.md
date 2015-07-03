@@ -15,7 +15,7 @@ images:
    - title: Long range Directional Antennas.
      name: two-directional-antennas.jpg
    - title: Connect equipement with ethernet cables.
-     name: 25-ethernet-cable.jpg
+     name: 20-ethernet-cable.jpg
    - title: Router to connect system to PC or Laptop.
      name: router.jpg
 ---
@@ -39,7 +39,7 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 
 - 1 IP PTZ Camera
 - 2 Wireless Directional Antennas
-- 2 25 meter Ethernet Cables
+- 2 20 meter Ethernet Cables
 - 1 Router
 
 <!--
