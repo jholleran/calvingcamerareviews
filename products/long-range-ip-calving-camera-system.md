@@ -3,7 +3,7 @@ layout: product
 slug: ip-camera-1
 title: IP Calving Camera System
 subTitle: PTZ Calving Camera
-image: IP-PTZ-CAM-1.jpg
+image: ip-calving-camera-system.png
 price: €350.00
 rating: 4.6
 text-color: gray
@@ -12,16 +12,16 @@ description: This IP Calving Camera System is ideal when there is a long distanc
 images:
    - title: IP Camera
      tip: Keeping a good eye on the welfare of your animals.
-     name: IP-PTZ-CAM-1.jpg
+     name: ip-camera.jpg
    - title: Directional Antenna
      tip: Keeping a good eye on the welfare of your animals.
      name: two-directional-antennas.jpg
    - title: Ethernet Cables
      tip: Keeping a good eye on the welfare of your animals.
-     name: IP-PTZ-CAM-3.jpg
+     name: 25-ethernet-cable.jpg
    - title: Router
      tip: Keeping a good eye on the welfare of your animals.
-     name: IP-PTZ-CAM-1.jpg
+     name: router.jpg
 ---
 
 This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. The maximum range of this is system 5km.
@@ -38,17 +38,15 @@ Kit Includes:
 - 2 Ethernet Cables (measuse length required)
 - 1 Router
 
-<br/>
-<div>
+<!--
+<div class="pull-right">
 	<b>Buy Now:</b>
-	<button id="buy-long-range-ip-camera" data-product-title="Long Range IP Calving Camera System" role="button" data-toggle="modal" class="btn btn-primary btn-large buy"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}
-    </button>
+	<button id="buy-long-range-ip-camera" data-product-title="Long Range IP Calving Camera System" role="button" data-toggle="modal" class="btn btn-primary btn-large buy"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}</button>
 </div>
 <br/>
+-->
 
-
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
-
+#DIY
 Here is a list of the equipement needed if you build this system yourself. You can buy these products on Amazon using the following links:
 
 - 1 IP PTZ Camera
