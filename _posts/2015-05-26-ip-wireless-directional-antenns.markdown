@@ -48,3 +48,6 @@ These antennas can be purchased on Amazon and are reasonably priced. Here is a l
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B004EGI3CI&asins=B004EGI3CI&linkId=NACNL6576ZSEOJ4Y&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3" >
 </iframe>
+
+
+If you want to purchase this full system go to the [Products Page](/products/long-range-ip-calving-camera-system.html).

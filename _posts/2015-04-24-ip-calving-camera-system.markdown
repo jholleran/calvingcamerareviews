@@ -70,3 +70,5 @@ There are many different types of IP Cameras that you can buy and some can be ve
 The great thing about having an IP Camera is that it is compatable with a lot of different devices. For example; Smarth Phones. There are lots of Apps that can be download so that you can connect your phone to the IP Camera. This is very useful for you to check your cows anytime you want to. 
 
 <img src="{{site.baseurl}}/img/cows-on-ipad.jpg" alt="viewing a calving camera on an ipad">
+
+If you want to purchase this system go to the [Products Page](/products/short-range-ip-calving-camera-system.html).
