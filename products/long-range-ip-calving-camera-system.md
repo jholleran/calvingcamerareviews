@@ -26,16 +26,24 @@ images:
 
 This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. The maximum range of this is system 5km.
 
-If you want to get more information about how to set this type of system up see this link: <a href="/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas</a>
+If you want to get more information about how to set this type of system see this link: <a href="/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas</a>
 
 
 The IP Camera has <a href="/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> functions so you can scan 360 degree around the shed. It also has high quality video, so enjoy clear uninterrupted camera footage from your laptop, computor, or smart phone.
 
-Kit Includes:
+
+###Connection Diagram
+<figure>
+  <img src="{{site.baseurl}}/img/ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Directional Antennas">
+  <figcaption style="text-align: center;">IP Calving Camera System with Directional Antennas</figcaption>
+</figure>
+<br>
+
+###Equipement Needed:
 
 - 1 IP PTZ Camera
 - 2 Wireless Directional Antennas
-- 2 Ethernet Cables (measuse length required)
+- 2 25 Ethernet Cables
 - 1 Router
 
 <!--
@@ -45,15 +53,6 @@ Kit Includes:
 </div>
 <br/>
 -->
-
-#DIY
-Here is a list of the equipement needed if you build this system yourself. You can buy these products on Amazon using the following links:
-
-- 1 IP PTZ Camera
-- 2 Wireless Directional Antennas
-- 2 Ethernet Cables (measure length required)
-- 1 Router
-
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B008O5BIWW&asins=B008O5BIWW&linkId=X7V3PF5IHPXV7H4D&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
 </iframe>
