@@ -35,7 +35,7 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 </figure>
 <br>
 
-###Equipement Needed:
+###Equipement
 
 - 1 IP PTZ Camera
 - 2 Wireless Directional Antennas
