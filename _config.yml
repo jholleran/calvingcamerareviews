@@ -2,10 +2,10 @@
 title: Calving Camera Systems
 email: jarlath.holleran@gmail.com
 description: > # 
-  Calving Cameras Systems is an information and review site that provides the
-  best information on how to install a Calving Camera System for your farm. It
-  details how to set up and configure the many different types of Calving Camera
-  Systems and offers advise on the best products to buy.
+  Calving Camera Systems is an information and review site that provides the
+  best information on how to install a calving camera system for your farm. It
+  details how to set up and configure the many different types of calving cameras 
+  and offers advise on the best products to buy.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://calvingcamerasystems.com" # the base hostname & protocol for your site
