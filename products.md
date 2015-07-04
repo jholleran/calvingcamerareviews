@@ -35,6 +35,23 @@ bg-img: products_bg.png
             <p>{{ page.description }}
             </p>
          </td>
+         <script type="application/ld+json">
+         {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "{{page.title}}",
+            "offers": {
+               "@type": "Offer",
+               "price": "{{page.price}}",
+               "priceCurrency": "EUR"
+            },
+            "aggregateRating": {
+               "@type": "AggregateRating",
+               "ratingValue": "{{page.rating}}",
+               "reviewCount": "{{page.reviews}}"
+            }
+         }
+         </script>
       </tr>
       {% endif %}
    {% endfor %}

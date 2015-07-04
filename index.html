@@ -31,6 +31,23 @@ bg-img: calving-camera-creevagh.jpg
                </span>
                      <span>{{ page.rating }}</span>
             </div>
+              <script type="application/ld+json">
+              {
+                "@context": "http://schema.org",
+                "@type": "Product",
+                "name": "{{page.title}}",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "{{page.price}}",
+                  "priceCurrency": "EUR"
+                },
+                "aggregateRating": {
+                  "@type": "AggregateRating",
+                  "ratingValue": "{{page.rating}}",
+                  "reviewCount": "{{page.reviews}}"
+                }
+              }
+              </script>
          </div>
 
           {% endif %}
