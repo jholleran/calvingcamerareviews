@@ -43,11 +43,44 @@ These Directional Antennas are power by <a href="http://en.wikipedia.org/wiki/Po
 Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set up correctly on these Antennas, and are password protected. This will encrypt the data being sent, to and from the antennas, and prevent other, unwanted guests, from hacking into your network. The radio signal from these Directional Antenna can picked up from a very long distance away so it would be better to be safe.
 
 
-##Ubiquiti NanoStation loco M2
-These antennas can be purchased on Amazon and are reasonably priced. Here is a link to one of them:
+<br/>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B004EGI3CI&asins=B004EGI3CI&linkId=NACNL6576ZSEOJ4Y&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3" >
-</iframe>
-
-
-If you want to purchase this full system go to the [Long Range Calving Camera Product Page](/products/long-range-ip-calving-camera-system.html).
+<hr style="border-top: 1px solid #000;" />
+<div class="row">
+     <div class="col-md-3">
+        <!-- product image-->
+        <a href="/products/long-range-ip-calving-camera-system.html"><img src="/img/products/ip-calving-camera-system.png" class="img-polaroid small-img"></a>
+     </div>
+     <div class="col-md-8">
+        <!-- product title--><a href="/products/long-range-ip-calving-camera-system.html"><strong>Long Range IP Calving Camera System</strong></a>
+        <div>
+           <!-- product rating-->
+           <span class="stars" id="rating-long-range-ip-camera" data-rating="4.6" data-suspended="suspended" title="good" style="cursor: default; width: 100px;"><img src="/img/star-on.png" alt="1" title="good">&nbsp;<img src="/img/star-on.png" alt="2" title="good">&nbsp;<img src="/img/star-on.png" alt="3" title="good">&nbsp;<img src="/img/star-on.png" alt="4" title="good">&nbsp;<img src="/img/star-half.png" alt="5" title="good"><input type="hidden" name="score" value="4.6" readonly="readonly"></span>
+                 <span>4.6</span>
+        </div>
+        <!-- product information-->
+        <br/>
+        <div>
+           <!-- buy button-->
+        	<a href="/products/long-range-ip-calving-camera-system.html" id="buy-ip-camera-1" data-product-title="Wireless PTZ IP Camera" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>€335.00</a>
+        </div>
+      
+     </div>
+     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="application/ld+json">
+     {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Long Range IP Calving Camera System",
+        "offers": {
+           "@type": "Offer",
+           "price": "€335.00",
+           "priceCurrency": "EUR"
+        },
+        "aggregateRating": {
+           "@type": "AggregateRating",
+           "ratingValue": "4.6",
+           "reviewCount": ""
+        }
+     }
+     </script>
+</div>  
