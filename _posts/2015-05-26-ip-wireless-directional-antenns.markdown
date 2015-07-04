@@ -55,8 +55,8 @@ Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set
         <!-- product title--><a href="/products/long-range-ip-calving-camera-system.html"><strong>Long Range IP Calving Camera System</strong></a>
         <div>
            <!-- product rating-->
-           <span class="stars" id="rating-long-range-ip-camera" data-rating="4.6" data-suspended="suspended" title="good" style="cursor: default; width: 100px;"><img src="/img/star-on.png" alt="1" title="good">&nbsp;<img src="/img/star-on.png" alt="2" title="good">&nbsp;<img src="/img/star-on.png" alt="3" title="good">&nbsp;<img src="/img/star-on.png" alt="4" title="good">&nbsp;<img src="/img/star-half.png" alt="5" title="good"><input type="hidden" name="score" value="4.6" readonly="readonly"></span>
-                 <span>4.6</span>
+        	<span class="stars" id="rating-long-range-ip-camera" data-rating="4.6" data-suspended="suspended" data-star-big="Yes"></span>
+			<span>4.6</span>
         </div>
         <!-- product information-->
         <br/>
@@ -64,7 +64,6 @@ Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set
            <!-- buy button-->
         	<a href="/products/long-range-ip-calving-camera-system.html" id="buy-ip-camera-1" data-product-title="Wireless PTZ IP Camera" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>€335.00</a>
         </div>
-      
      </div>
      <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="application/ld+json">
      {
