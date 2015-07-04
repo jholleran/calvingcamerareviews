@@ -1,0 +1,44 @@
+
+<br/>
+
+<hr style="border-top: 1px solid #000;" />
+
+<div class="row">
+     <div class="col-md-3">
+        <!-- product image-->
+        <a href="{{ page.url }}"><img src="/img/products/{{ page.image }}" class="img-polaroid small-img"></a>
+     </div>
+     <div class="col-md-8">
+        <!-- product title-->
+        <a href="{{ page.url }}"><strong>{{ page.title }}</strong></a>
+        <div>
+           <!-- product rating-->
+        	<span class="stars" id="rating-{{ page.slug }}" data-rating="{{page.rating}}" data-suspended="suspended">
+            </span>
+            <span>{{ page.rating }}</span>
+        </div>
+        <!-- product information-->
+        <br/>
+        <div>
+           <!-- buy button-->
+        	<a href="{{ page.url }}" id="buy-ip-camera-1" data-product-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}</a>
+        </div>
+     </div>
+     <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "{{page.title}}",
+        "offers": {
+          "@type": "Offer",
+          "price": "{{page.price}}",
+          "priceCurrency": "EUR"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "{{page.rating}}",
+          "reviewCount": "{{page.reviews}}"
+        }
+      }
+      </script>
+</div>  

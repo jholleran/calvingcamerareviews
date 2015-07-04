@@ -43,43 +43,5 @@ These Directional Antennas are power by <a href="http://en.wikipedia.org/wiki/Po
 Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set up correctly on these Antennas, and are password protected. This will encrypt the data being sent, to and from the antennas, and prevent other, unwanted guests, from hacking into your network. The radio signal from these Directional Antenna can picked up from a very long distance away so it would be better to be safe.
 
 
-<br/>
-
-<hr style="border-top: 1px solid #000;" />
-<div class="row">
-     <div class="col-md-3">
-        <!-- product image-->
-        <a href="/products/long-range-ip-calving-camera-system.html"><img src="/img/products/ip-calving-camera-system.png" class="img-polaroid small-img"></a>
-     </div>
-     <div class="col-md-8">
-        <!-- product title--><a href="/products/long-range-ip-calving-camera-system.html"><strong>Long Range IP Calving Camera System</strong></a>
-        <div>
-           <!-- product rating-->
-        	<span class="stars" id="rating-long-range-ip-camera" data-rating="4.6" data-suspended="suspended" data-star-big="Yes"></span>
-			<span>4.6</span>
-        </div>
-        <!-- product information-->
-        <br/>
-        <div>
-           <!-- buy button-->
-        	<a href="/products/long-range-ip-calving-camera-system.html" id="buy-ip-camera-1" data-product-title="Wireless PTZ IP Camera" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>€335.00</a>
-        </div>
-     </div>
-     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="application/ld+json">
-     {
-        "@context": "http://schema.org",
-        "@type": "Product",
-        "name": "Long Range IP Calving Camera System",
-        "offers": {
-           "@type": "Offer",
-           "price": "€335.00",
-           "priceCurrency": "EUR"
-        },
-        "aggregateRating": {
-           "@type": "AggregateRating",
-           "ratingValue": "4.6",
-           "reviewCount": ""
-        }
-     }
-     </script>
-</div>  
+{% assign page = site.data.long-range-cc-system-data %}
+{% include product-preview.html %}

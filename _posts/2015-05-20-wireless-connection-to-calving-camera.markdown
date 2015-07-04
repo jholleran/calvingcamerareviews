@@ -30,43 +30,5 @@ The Camera is connected into the Directional Antenna in the Shed and transmits t
 In a later post I will go into detail about the type of Antennas that can be used and how to set them up. If you want to get notifications of these posts you can follow us on Twitter or friend us up on Facebook using the links bellow.
 
 
-<br/>
-
-<hr style="border-top: 1px solid #000;" />
-<div class="row">
-     <div class="col-md-3">
-        <!-- product image-->
-        <a href="/products/long-range-ip-calving-camera-system.html"><img src="/img/products/ip-calving-camera-system.png" class="img-polaroid small-img"></a>
-     </div>
-     <div class="col-md-8">
-        <!-- product title--><a href="/products/long-range-ip-calving-camera-system.html"><strong>Long Range IP Calving Camera System</strong></a>
-        <div>
-           <!-- product rating-->
-        	<span class="stars" id="rating-long-range-ip-camera" data-rating="4.6" data-suspended="suspended" data-star-big="Yes"></span>
-			<span>4.6</span>
-        </div>
-        <!-- product information-->
-        <br/>
-        <div>
-           <!-- buy button-->
-        	<a href="/products/long-range-ip-calving-camera-system.html" id="buy-ip-camera-1" data-product-title="Wireless PTZ IP Camera" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>€335.00</a>
-        </div>
-     </div>
-     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="application/ld+json">
-     {
-        "@context": "http://schema.org",
-        "@type": "Product",
-        "name": "Long Range IP Calving Camera System",
-        "offers": {
-           "@type": "Offer",
-           "price": "€335.00",
-           "priceCurrency": "EUR"
-        },
-        "aggregateRating": {
-           "@type": "AggregateRating",
-           "ratingValue": "4.6",
-           "reviewCount": ""
-        }
-     }
-     </script>
-</div>  
+{% assign page = site.data.long-range-cc-system-data %}
+{% include product-preview.html %}
