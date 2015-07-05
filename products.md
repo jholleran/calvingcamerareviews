@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /products/
-title: Calving Camera Products
+title: Products
+subTitle: Calving Camera Products
 bg-img: products_bg.png
 description: |
   A list of calving camera systems that are available for purchase. The list contains long range and short range IP calving camera systems.
