@@ -18,7 +18,7 @@ images:
      name: router.jpg
 ---
 
-{{ page.description }} The maximum range of this system is 100 meters. If you need a longer distance <a href="{{site.baseurl}}/products/long-range-ip-calving-camera-system.html">Directional Antennas</a> can be integrated into this system.
+IP Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. Ideal when there is not a large distance from house to the shed. The maximum range of this system is 100 meters. If you need a longer distance <a href="{{site.baseurl}}/products/long-range-ip-calving-camera-system.html">Directional Antennas</a> can be integrated into this system.
 
 If you want to get more information about how to set this type of system see this link: <a href="{{site.baseurl}}/ip/2015/04/24/ip-calving-camera-system.html">IP Calving Camera System</a>
 

@@ -6,7 +6,7 @@ date:   2015-04-26 16:17:00
 bg-img: ptz-camera.png
 text-color: gray
 description: |
-  The advantages of PTZ Cameras over static Cameras.
+  PTZ (Pan, Tilt & Zoom) are very useful when you want to view large shed areas with a single Camera. You can control the viewing angle of the Camera. If set up to have a two way communication between the Camera and PC the viewing angle can be changed remotly from the PC.
 
 
 categories: ptz

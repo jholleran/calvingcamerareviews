@@ -5,7 +5,7 @@ subHeading:  "Long distance between House to Shed"
 date: 2015-05-20 21:00:00
 bg-img: cow-and-calf-creevagh.png
 description: |
-  Connecting the Shed to the House using long range Wi-Fi.
+  Making a connecting between the shed back to the house using a long range wireless connection. This post dicusses the difference between omidirectional and directional antennas transmitting analog CCTV or digital Wi-fi signals.
 
 categories: cameras
 ---
