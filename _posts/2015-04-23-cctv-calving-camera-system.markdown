@@ -6,7 +6,7 @@ date:   2015-04-23 21:28:16
 bg-img: calving-camera-creevagh.jpg
 img: calving-camera.jpg
 description: |
-  All the information you need to know about Analog CCTV calving camera systems.
+  This blog post contains information to show you how to configure and setup an analog CCTV calving camera systems. It also contains information about some of the equipment that can be used in these systems, such as video splitters and DVRs.
 
 
 categories: cctv

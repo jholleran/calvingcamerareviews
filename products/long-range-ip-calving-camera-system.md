@@ -7,7 +7,7 @@ image: ip-calving-camera-system.png
 price: €335.00
 rating: 4.6
 text-color: gray
-description: This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas.
+description: Long range IP calving camera system are used when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. 
 
 images:
    - title: IP Camera with Pan\Tilt & Zoom functionality.
@@ -20,7 +20,7 @@ images:
      name: router.jpg
 ---
 
-{{ page.description }} The maximum range of this is system 5km.
+This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. The maximum range of this is system 5km.
 
 If you want to get more information about how to set this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas</a>
 

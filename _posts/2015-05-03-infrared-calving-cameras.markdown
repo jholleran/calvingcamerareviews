@@ -5,7 +5,7 @@ subHeading:  "Viewing your Cattle in low light or darkness"
 date:   2015-05-03 20:00:00
 bg-img: infrared-camera.png
 description: |
-  Using Infrared Cameras to view your Cattle in low light or darkness.
+  Cameras can come with Infrared built in, giving the camera Night Vision. Infrared Cameras (IR) gives the ability to view the video, from the camera, in low light or complete darkness.
 
 categories: cameras
 ---
