@@ -38,3 +38,6 @@ If you want to be able to view at night, or in low light, then night vision is a
 
 TODO
 Insert bullet camera product preview
+connection diagram
+ip & cctv
+
