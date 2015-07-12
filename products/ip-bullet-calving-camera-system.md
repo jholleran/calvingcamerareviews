@@ -3,22 +3,22 @@ layout: product
 slug: ip-bullet-camera
 title: Bullet Calving Camera System
 subTitle: Calving Camera System with IP Bullet Cameras
-image: ip-calving-camera-system.png
-price: €335.00
+image: ip-bullet-calving-camera-system.png
+price: €275.00
 rating: 4.1
 text-color: gray
 description: Bullet Cameras are small Video Cameras that are shaped like a rifle bullet. Bullet Cameras easily mount on ceilings or walls. The main advantage of Bullet Cameras is their low cost and small size 
 
 images:
-   - title: IP Camera with Pan\Tilt & Zoom functionality.
-     name: ip-camera.jpg
-   - title: Long range Directional Antennas.
+   - title: IP Bullet Camera
+     name: ip-bullet-camera.jpg
+   - title: Directional Antennas for long range Wi-Fi connectivity
      name: two-directional-antennas.jpg
-   - title: Connect equipement with ethernet cables.
+   - title: Ethernet cabled to connect the equipement together
      name: 20-ethernet-cable.jpg
-   - title: POE switch.
-     name: poe-switch.jpg
-   - title: Router to connect system to PC or Laptop.
+   - title: POE connector for powering the antennas and cameras
+     name: poe-connector.jpg
+   - title: Router to connect the system to PC or Laptop
      name: router.jpg
 ---
 
@@ -32,8 +32,8 @@ If you want to get more information about how to set this type of system see the
 
 
 ###Connection Diagram
-Bellow is a connection diagram how the system is setup and connected together. Here we have two IP bullet cameras connected to, and powered by, a POE switch using ethernet cables. The POE switch is also connected to, and powers, a directional antenna. It uses POE switch with multiple post to simpifly the system so that the cameras and directional antenna will not need a separate power source. The directional antenna will make a Wi-Fi connection to the other directional antenna. These antennas will need a clear line of sight to maximise there range and connection quality. The maximum range of this is system 5km.
-The directional antenna, at the house or office, is powered by another POE switch and is connected to a router with ethernet cables. From there, a Laptop or PC can connect to the router which will all it to connect to the IP cameras and view the video remotely.
+Bellow is a connection diagram how the system is setup and connected together. Here we have two IP bullet cameras connected to, and powered by, a POE connector using ethernet cables. The POE connector is also connected to, and powers, a directional antenna. It uses POE connector with multiple post to simpifly the system so that the cameras and directional antenna will not need a separate power source. The directional antenna will make a Wi-Fi connection to the other directional antenna. These antennas will need a clear line of sight to maximise there range and connection quality. The maximum range of this is system 5km.
+The directional antenna, at the house or office, is powered by another POE connector and is connected to a router with ethernet cables. From there, a Laptop or PC can connect to the router which will all it to connect to the IP cameras and view the video remotely.
 
 <figure>
   <img src="{{site.baseurl}}/img/connection-diagrams/bullet-ip-camera-antenna-connection-diagram.png" alt="Calving Camera System with IP Bullet Cameras">
@@ -41,13 +41,13 @@ The directional antenna, at the house or office, is powered by another POE switc
 </figure>
 <br>
 
-If the distance between the house and the shed is not that long, for example less than 100 meters, then the directional antenna can be left out of this system and connect the router to the POE switch, on the shed side, with a direct ethernet cable.
+If the distance between the house and the shed is not that long, for example less than 100 meters, then the directional antenna can be left out of this system and connect the router to the POE connector, on the shed side, with a direct ethernet cable.
 
 ###Equipment
 
 - IP Bullet Camera(s)
 - 2 Wireless Directional Antennas
-- 2 POE Switches
+- 2 POE Connectors
 - 2 20 meter Ethernet Cables
 - 1 Router
 
