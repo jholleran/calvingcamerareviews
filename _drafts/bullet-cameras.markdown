@@ -41,8 +41,8 @@ If you want to be able to view at night, or in low light, then night vision is a
 Bellow is a typical connection diagram of how an IP system, with bullet cameras, is setup and connected together. 
 
 <figure>
-  <img src="{{site.baseurl}}/img/connection-diagrams/bullet-ip-camera-antenna-connection-diagram.png" alt="Calving Camera System with IP Bullet Cameras">
-  <figcaption style="text-align: center;">Calving Camera System with IP Bullet Cameras</figcaption>
+  <img src="{{site.baseurl}}/img/connection-diagrams/bullet-ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Bullet Cameras">
+  <figcaption style="text-align: center;">IP Calving Camera System with Bullet Cameras</figcaption>
 </figure>
 
 {% assign page = site.data.ip-bullet-cc-system-data %}

@@ -36,8 +36,8 @@ Bellow is a connection diagram how the system is setup and connected together. H
 The directional antenna, at the house or office, is powered by another POE connector and is connected to a router with ethernet cables. From there, a Laptop or PC can connect to the router which will all it to connect to the IP cameras and view the video remotely.
 
 <figure>
-  <img src="{{site.baseurl}}/img/connection-diagrams/bullet-ip-camera-antenna-connection-diagram.png" alt="Calving Camera System with IP Bullet Cameras">
-  <figcaption style="text-align: center;">Calving Camera System with IP Bullet Cameras</figcaption>
+  <img src="{{site.baseurl}}/img/connection-diagrams/bullet-ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Bullet Cameras">
+  <figcaption style="text-align: center;">IP Calving Camera System with Bullet Cameras</figcaption>
 </figure>
 <br>
 
