@@ -4,7 +4,7 @@ slug: ip-bullet-camera
 title: IP Bullet Calving Camera System
 subTitle: Calving Camera System with IP Bullet Cameras
 image: ip-bullet-calving-camera-system.png
-price: €275.00
+price: €300.00
 rating: 4.1
 description: This IP Calving Camera System comprises of bullet cameras, for high resolution, crisp and clear video, and directional antennas for long range Wi-Fi connectivity. This system is ideal when there is a long distance between the shed and the house.
 

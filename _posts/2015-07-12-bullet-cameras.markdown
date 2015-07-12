@@ -2,7 +2,7 @@
 layout: post
 heading:  "Bullet Cameras"
 subHeading:  "Watching you animals with Bullet Cameras"
-date:   2015-07-12 18:00:00
+date:   2015-07-12 21:00:00
 bg-img: bullet-camera-bg.png
 description: |
   Bullet Cameras are small Video Cameras that are shaped like a rifle bullet. Bullet Cameras easily mount on ceilings or walls. The main advantage of Bullet Cameras is their low cost and small size. Although they have a low cost and are very small, they still provide excellent picture quality and video recording.
