@@ -16,9 +16,9 @@ images:
    - title: Ethernet cabled to connect the equipement together
      name: 20-ethernet-cable.jpg
    - title: POE network switch for powering the antenna and cameras
-     name: poe-network-switch.jpg
+     name: 8-port-poe-switch.png
    - title: POE Injector for powering the antenna (house side)
-     name: poe-injector.jpg
+     name: poe-injector.png
    - title: Router to connect the system to PC or Laptop
      name: router.jpg
 ---
@@ -73,6 +73,9 @@ This system can be easily expanded. To add more cameras just plug them into the 
 </iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B00QELK40K&asins=B00QELK40K&linkId=KYMLRVF6NPZZLD7F&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B001PS9E5I&asins=B001PS9E5I&linkId=WEGE7URY2AA2YUGI&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
 </iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=jhollerano-20&marketplace=amazon&region=US&placement=B003Y5RYNY&asins=B003Y5RYNY&linkId=EKBIJQMW6E65ZHHP&show_border=true&link_opens_in_new_window=true&price_color=BF3E3E&title_color=759BBD&bg_color=F9F3F3">
