@@ -1,7 +1,7 @@
 ---
 layout: post
-heading:  "IP Bullet Cameras"
-subHeading:  "Watching you animals with IP Bullet Cameras"
+heading:  "Bullet Cameras"
+subHeading:  "Watching you animals with Bullet Cameras"
 date:   2015-07-10 21:36:00
 bg-img: bullet-camera-bg.png
 description: |

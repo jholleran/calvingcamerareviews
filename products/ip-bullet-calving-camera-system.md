@@ -1,7 +1,7 @@
 ---
 layout: product
 slug: ip-bullet-camera
-title: Bullet Calving Camera System
+title: IP Bullet Calving Camera System
 subTitle: Calving Camera System with IP Bullet Cameras
 image: ip-bullet-calving-camera-system.png
 price: €275.00
@@ -26,7 +26,7 @@ This Calving Camera System comprises of IP bullet cameras, for high resolution, 
 
 If you want to get more information about how to set this type of system see the following articles: 
 
- - [IP Bullet Cameras]({{site.baseurl}}/cameras/2015/07/10/bullet-cameras.html)
+ - [Bullet Cameras]({{site.baseurl}}/cameras/2015/07/10/bullet-cameras.html)
  - [IP Wireless Directional Antennas]({{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html)
 
 
