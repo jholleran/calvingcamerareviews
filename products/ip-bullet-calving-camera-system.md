@@ -7,7 +7,7 @@ image: ip-bullet-calving-camera-system.png
 price: €275.00
 rating: 4.1
 text-color: gray
-description: Bullet Cameras are small Video Cameras that are shaped like a rifle bullet. Bullet Cameras easily mount on ceilings or walls. The main advantage of Bullet Cameras is their low cost and small size 
+description: This IP Calving Camera System comprises of bullet cameras, for high resolution, crisp and clear video, and directional antennas for long range Wi-Fi connectivity. This system is ideal when there is a long distance between the shed and the house.
 
 images:
    - title: IP Bullet Camera
@@ -26,7 +26,7 @@ This Calving Camera System comprises of IP bullet cameras, for high resolution, 
 
 If you want to get more information about how to set this type of system see the following articles: 
 
- - [Bullet Cameras]({{site.baseurl}}/cameras/2015/07/10/bullet-cameras.html)
+ - [Bullet Cameras]({{site.baseurl}}/cameras/2015/07/12/bullet-cameras.html)
  - [IP Wireless Directional Antennas]({{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html)
 
 
@@ -42,6 +42,8 @@ The directional antenna, at the house or office, is powered by another POE conne
 <br>
 
 If the distance between the house and the shed is not that long, for example less than 100 meters, then the directional antenna can be left out of this system and connect the router to the POE connector, on the shed side, with a direct ethernet cable.
+
+This system can be easily expanded. To add more cameras just plug them into the POE connector. As long as there are spare ports on the POE connecter then more cameras can be added. 
 
 ###Equipment
 
