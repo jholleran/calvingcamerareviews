@@ -5,14 +5,14 @@ subHeading:  "Watching you animals with Bullet Cameras"
 date:   2015-07-12 21:00:00
 bg-img: bullet-camera-bg.png
 description: |
-  Bullet Cameras are small Video Cameras that are shaped like a rifle bullet. Bullet Cameras easily mount on ceilings or walls. The main advantage of Bullet Cameras is their low cost and small size. Although they have a low cost and are very small, they still provide excellent picture quality and video recording.
+  Bullet Cameras are small video cameras that are shaped like a rifle bullet. Bullet Cameras easily mount on ceilings or walls. The main advantage of Bullet Cameras is their low cost and small size. Although they have a low cost and are very small, they still provide excellent picture quality and video recording.
 
 categories: cameras
 ---
 
 Bullet Cameras are small video cameras that are shaped like a rifle bullets. These cameras are typically the width of a cigar. Bullet cameras easily mount on ceilings or walls. The main advantage of Bullet Cameras is their low cost and small size. Although they have a low cost and are very small, they still provide excellent picture quality and video recording. 
 
-There are different types of bullet camera, CCTV bullet cameras and IP bullet cameras. IP cameras can be more expensive but they can have better picture quality. CCTV cameras are a simplier system that is easier to set up. Make sure you get the correct camera type depending on the type of system you are building.
+There are different types of bullet camera, CCTV bullet cameras and IP bullet cameras. IP cameras can be more expensive but they can have better picture quality. CCTV cameras are a simpler system that is easier to set up. Make sure you get the correct camera type depending on the type of system you are building.
 
 [Infrared](https://en.wikipedia.org/wiki/Infrared) Bullet Cameras are larger in diameter than standard bullet cameras. The larger diameter is due to an array of infrared LEDs that are positioned around the lens of the camera which allow the camera to view objects in low light or darkness. 
 [Infrared Cameras]({{site.baseurl}}/cameras/2015/05/03/infrared-calving-cameras.html) are nearly always a better choice for use as a calving camera. The reason for this is that you may want to view you cattle in the shed at night when it's dark. Having night vision in the camera will save you money as there is no need to leave lights on in the shed.
@@ -38,7 +38,7 @@ Picture quality is very important to have when it's used as a calving camera. Yo
 If you want to be able to view at night, or in low light, then night vision is a very useful feature to have. Different cameras have different ranges of night vision. The specs of the camera it should say what its Infrared Range (IR) is. If the IR range of the camera is 30 meters the camera should be able to view up to 30 meters in night vision. Beyond that it could be difficult or unclear to see objects. So always check the IR range spec of the camera to make sure the night vision range is sufficient for your needs. If your camera is overlooking the full shed you will need longer night vision that if it's looking at a close smaller area.
 
 ##Connection Diagram
-Bellow is a typical connection diagram of how an IP system, with bullet cameras, is setup and connected together. 
+Below is a typical connection diagram of how an IP system, with bullet cameras, is setup and connected together. 
 
 <figure>
   <img src="{{site.baseurl}}/img/connection-diagrams/bullet-ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Bullet Cameras">
