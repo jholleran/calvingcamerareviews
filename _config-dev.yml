@@ -26,9 +26,9 @@ markdown: kramdown
 analytics :
   provider : google 
   google : 
-    tracking_id : 'UA-54134529-2'
+    tracking_id : ''
 
-development: false
+development: true
 
 gems:
   - jekyll-sitemap
