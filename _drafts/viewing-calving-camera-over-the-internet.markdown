@@ -61,8 +61,19 @@ If there is an issue at this point where it doesn't display anything. This could
 
 
 #DDNS
+The second option to connecting a calving camera system up to the Internet is to us a Dynamic Domain Name Service ([DDNS](https://en.wikipedia.org/wiki/Dynamic_DNS) or DynDNS). This service works by assigning the camera a domain name. This can then be used to connect to the camera rather than using an IP address.
+
+The domain name is an easier name to remember than an IP address. An example of this is: http://mycamera.dydns.org. This can be types directly in a browser. This will goto the DDNS and resolve the IP address of the camera. 
+
+Whenever the IP address, that is assigned to your broadband connection, changes the DDNS will need to be notified. This is needed so that forward domain name requests to this new IP address. Most camera or modems can be set up to notify the DDNS. 
+
 
 
 ##Setting up a free account
+
+There are many different compainies on the Internet that provide DDNS services. One of them is DynDNS where you can set up a free account. If you want a custom domain name such as http://myfarmcalvingcamera.com you will need to pay a small fee for this.
+
+Its very simple to set this up. First you need to find the IP address that has been assigned. Then go to a DDNS provider and open an account. You will be able to create a domain name. Enter a name that will be easily remembered. You will be able to enter the IP address. 
+
 
 ##Camera Configuration
