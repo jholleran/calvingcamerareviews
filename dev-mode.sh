@@ -1,2 +1,2 @@
 #!/bin/bash
-jekyll serve --watch --config _config-dev.yml
+jekyll serve --watch --drafts --config _config-dev.yml
