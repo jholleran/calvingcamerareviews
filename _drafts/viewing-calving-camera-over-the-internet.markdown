@@ -57,23 +57,32 @@ This should now display the camera console web page there you can view the video
 If there is an issue at this point where it doesn't display anything. This could be blocked by the Firewall on the Modem. You might need to open the port on the firewall to let it through.
 
 
-##Router Configuration
-
 
 #DDNS
-The second option to connecting a calving camera system up to the Internet is to us a Dynamic Domain Name Service ([DDNS](https://en.wikipedia.org/wiki/Dynamic_DNS) or DynDNS). This service works by assigning the camera a domain name. This can then be used to connect to the camera rather than using an IP address.
+The second option to connecting a calving camera system up to the Internet is to use a Dynamic Domain Name Service ([DDNS](https://en.wikipedia.org/wiki/Dynamic_DNS) or DynDNS). This service works by assigning a domain name to the IP address of your local network. The DDNS will then forword all requests make to this domain name to the IP address.
+As the IP address of the local network will change from time to time the DDNS will need told about. A DDNS client will need to be running on the local network. This will inform the DDNS service of any changes so it can keep its domain name index up to date.
 
-The domain name is an easier name to remember than an IP address. An example of this is: http://mycamera.dydns.org. This can be types directly in a browser. This will goto the DDNS and resolve the IP address of the camera. 
-
-Whenever the IP address, that is assigned to your broadband connection, changes the DDNS will need to be notified. This is needed so that forward domain name requests to this new IP address. Most camera or modems can be set up to notify the DDNS. 
-
-
-
-##Setting up a free account
-
-There are many different compainies on the Internet that provide DDNS services. One of them is DynDNS where you can set up a free account. If you want a custom domain name such as http://myfarmcalvingcamera.com you will need to pay a small fee for this.
-
-Its very simple to set this up. First you need to find the IP address that has been assigned. Then go to a DDNS provider and open an account. You will be able to create a domain name. Enter a name that will be easily remembered. You will be able to enter the IP address. 
+##Domain Names
+A domain name is an easier name to remember than an IP address. An example of this is: http://mycamera.dydns.org. This can be typed directly in a browser. This will goto the DDNS which will forward the request to the IP address of the network. 
 
 
-##Camera Configuration
+##Setting up a DDNS Account
+There are many different compainies on the Internet that provide DDNS services. One of them is DynDNS where you can set up a account. If you want a custom domain name, for example; http://myfarmcalvingcamera.com you will need to pay a small fee for this.
+
+Its very simple to set this up. Go to a DDNS provider and open an account. You will be able to create a domain name that will be easily remembered.
+
+##DDNS Client
+The next thing that needs to be setup is the DDNS client. This is a small software program that periododicly polls the IP address assigned to the local network. If it discovers that it has changed then it connects to the DDNS service and informs it of the new IP address. The DDNS service takes this new IP address and updates its domain name index. Now when someone enters your domain name into a browser the DDNS will forward this request to the correct IP address.
+
+When that is set up go to the camera and enter the DDNS information on the camera. Now everytime the IP address changes the camera will automatically connect to the DDNS and inform the service that the IP address has changed. The DDNS will now forward requests to the domain name to the new IP address.
+
+##Modem with DDNS Client
+Most modems have a DDNS client built in enternally. This allows the modem to inform the DDNS that the IP assigned to the local network has changed. This is very easy to setup. Go to device settings on the modem and look for DDNS settings. From there, you can enter the DDNS account information so it can access it to do the update. This will always be the best place to have a DDNS client running as the modem will be the first to know about IP address changes.
+
+##Camera with DDNS Client
+Some IP cameras also contain a DDNS client. This allows the camera to inform the DDNS that the IP of the local network has changed. This is very easy to setup on the camera. Go to device settings and look for DDNS settings. From there you can enter the DDNS account information so it can access it.
+
+
+##PC with DDNS Client
+If neither the modem or IP camera have a DDNS client built in a DDNS client can be installed on a PC. Your DDNS provider will have a DDNS client that can be downloaded. This will run the IP update. The only disadvantages to this is that the PC will need be running at all times to keep the DDNS updated.
+
