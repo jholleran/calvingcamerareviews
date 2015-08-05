@@ -1,14 +1,16 @@
 ---
 layout: post
 heading:  "Remoting Viewing"
-subHeading:  "Connecting a Calving Camera System up to the Internet"
+subHeading:  "Internet Calving Camera System"
 date:   2015-07-20 21:36:00
 bg-img: internet-connected-bg.png
 description: |
-  How to connect and configure your calving camera system up to the Internet? There are two main way to accomplish with a static IP address from your ISP or with a DDNS. This article will describe in detail how to do this.
+  How to connect and configure your calving camera system up to the Internet? There are two main way to accomplish with a static IP address from your ISP or with a DDNS. This article will describe in detail how to setup can configure both of these options.
 
 categories: internet
 ---
+
+How to connect and configure your calving camera system up to the Internet? There are two main way to accomplish with a static IP address from your ISP or with a DDNS. This article will describe in detail how to setup can configure both of these options.
 
 #Static IP Address
 The first option is to get a static IP address of your Internet Service Provider (ISP). Usually by default your ISP will not assign a static IP address to your Internet connection. The assigned address can change from time to time. The way it works is, when your modem is started and tries to connect to the Internet it requests an IP address from the ISP. The ISP will return an IP address which will be set on the modem. This address will be used to communicate with other computers on the Internet.
