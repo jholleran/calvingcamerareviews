@@ -1,0 +1,48 @@
+<a href="/products">
+    <h1>PRODUCTS</h1>
+</a>
+<hr style="border-top: 1px solid #000;" />
+
+<div class="row">
+       {% for page in site.pages %}
+          {% if page.layout == 'product' %}
+         <div class="col-md-4">
+            <!-- product image-->
+            <div class="row">
+                <a href="{{ page.url }}"><img src="/img/products/{{ page.image }}" class="img-polaroid small-img"></a>
+            </div>
+            <div class="row">
+            <!-- product title-->
+            <a href="{{ page.url }}"><strong>{{ page.title }}</strong></a>
+            </div>
+            <!-- buy button-->
+            <!--<button id="buy-ip-camera-1" data-product-title="Wireless PTZ IP Camera" role="button" data-toggle="modal" class="btn btn-primary btn-mini buy"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}</button>
+            -->
+            <div class="row">
+               <!-- product rating-->
+               <span class="stars" id="rating-{{ page.slug }}" data-rating="{{page.rating}}" data-suspended="suspended">
+               </span>
+                     <span>{{ page.rating }}</span>
+            </div>
+              <script type="application/ld+json">
+              {
+                "@context": "http://schema.org",
+                "@type": "Product",
+                "name": "{{page.title}}",
+                "offers": {
+                  "@type": "Offer",
+                  "price": "{{page.price}}",
+                  "priceCurrency": "EUR"
+                },
+                "aggregateRating": {
+                  "@type": "AggregateRating",
+                  "ratingValue": "{{page.rating}}",
+                  "reviewCount": "{{page.reviews}}"
+                }
+              }
+              </script>
+         </div>
+
+          {% endif %}
+       {% endfor %}
+</div>
