@@ -7,6 +7,7 @@ image: short-range-ip-calving-camera-system.png
 price: €325.00
 rating: 4.4
 text-color: gray
+nav-color: gray
 description: IP Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. Ideal when there is not a large distance from house to the shed.
 
 images:

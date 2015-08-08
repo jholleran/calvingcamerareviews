@@ -7,6 +7,7 @@ image: ip-calving-camera-system.png
 price: €855.00
 rating: 4.6
 text-color: gray
+nav-color: gray
 description: Long range IP calving camera system are used when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. 
 
 images:
