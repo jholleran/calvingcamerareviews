@@ -5,6 +5,7 @@ subHeading:  "IP Wireless Directional Antennas"
 date:   2015-05-26 22:40:00
 bg-img: ip-directional-antennas-bg.png
 text-color: gray
+nav-color: gray
 description: |
   IP Directional Antennas can be used when there is a long distance between the Shed and the House. This article describes how to set a directional antenna up and how to integrate them with IP Cameras.
 

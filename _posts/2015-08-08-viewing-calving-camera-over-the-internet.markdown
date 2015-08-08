@@ -3,6 +3,7 @@ layout: post
 heading:  "Remote Viewing"
 subHeading:  "Calving Camera Over The Internet"
 date:   2015-08-08 18:00:00
+nav-color: gray
 bg-img: internet-connected-bg.png
 description: |
   This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address from your ISP or with a DDNS. This article will describe in detail how to setup can configure both of these options.
@@ -10,7 +11,7 @@ description: |
 categories: internet
 ---
 
-This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address, from your ISP, or with a DDNS. This article will describe in detail how to setup can configure both of these options. The system been used in this article is an IP camera system but a lot of the information is useful for connecting a CCTV camera system up to the Internet.
+This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address, from your ISP, or with a DDNS. This article will describe in detail how to setup can configure both of these options. The system been described in this article is an IP camera system but a lot of the information is useful for connecting a CCTV camera system up to the Internet.
 
 ##Static IP Address
 The first option is to get a static IP address of your Internet Service Provider (ISP). Usually by default your ISP will assign a dynamic IP address to your Internet connection that can change from time to time. 
