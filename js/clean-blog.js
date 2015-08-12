@@ -1033,6 +1033,41 @@ jQuery(document).ready(function($) {
 
 
 /**
+ * Buying System
+ */
+
+$(function () {
+  'use strict';
+  $.each($('.buy'), function () {
+
+    var id = $(this).attr('id');
+    var title = $(this).attr('data-product-title');
+    var slug = id.replace('buy-', '');
+
+    $('#' + id).click(function () {
+      $('#product-title').text(title);
+      $('#modal').dialog({
+        resizable: false,
+        width: 400,
+        modal: false
+      });
+      $('#buy-confirm').click(function () {
+        //humane.log('Your order has been submitted!');
+        $('#modal').dialog('close');
+        $('#' + id).attr('disabled', 'true');
+        //$.post('/buy', { slug: slug });
+      });
+      $('#buy-cancel').click(function () {
+        //humane.log('Your order has been submitted!');
+        $('#modal').dialog('close');
+        $('#' + id).attr('disabled', 'true');
+        //$.post('/buy', { slug: slug });
+      });
+    });
+  });
+});
+
+/**
  * Rating System
  */
 $(function () {
