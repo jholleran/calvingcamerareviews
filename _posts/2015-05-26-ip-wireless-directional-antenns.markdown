@@ -18,6 +18,12 @@ IP Directional Antennas contain both a transmitter and a receiver. This means th
 Directional Antennas transmit radio waves in a single direction. The signal will only be picked up the direction that it's pointing. As it focuses the radio waves in one direction it can transmit and receive longer distances than Omi-directional Antennas. In most farms, this is exactly what is needed for setting up a Calving Camera as the Shed can be a long distance from the House.
 
 ##Set Up
+
+<figure>
+  <img src="{{site.baseurl}}/img/connecting-buildings-colored.png" alt="Connecting buildings with Directional Antennas" style="width: 100%;">
+  <figcaption style="text-align: center;">Connecting buildings with Directional Antennas</figcaption>
+</figure>
+
 IP Directional Antennas are very simple to connect together. On one side, the IP Camera plugs directly into one of the Directional IP Antenna with an Ethernet cable. One the other, the second Directional Antenna plugs directly in a Router, PC, or Laptop with another Ethernet Cable. When the antennas are set up to communicate with one another you will be able to connect to the camera from your PC or Laptop.
 
 Here is a connection diagram of how the Direction Antennas are integrated into the Calving Camera System.
