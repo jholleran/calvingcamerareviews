@@ -23,6 +23,11 @@ images:
 
 This IP Calving Camera System is ideal when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. The maximum range of this is system 5km.
 
+<figure>
+  <img src="{{site.baseurl}}/img/connecting-buildings-colored.png" alt="Connecting buildings with WI-FI" style="width: 100%;">
+  <figcaption style="text-align: center;">Connecting buildings with WI-FI</figcaption>
+</figure>
+
 If you want to get more information about how to set this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas</a>
 
 
