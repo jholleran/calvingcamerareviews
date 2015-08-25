@@ -32,3 +32,6 @@ development: false
 
 gems:
   - jekyll-sitemap
+
+
+exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, scss, less]
