@@ -33,5 +33,5 @@ development: false
 gems:
   - jekyll-sitemap
 
-
+# Excludes files and directories from being deployed into _site
 exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, scss, less]

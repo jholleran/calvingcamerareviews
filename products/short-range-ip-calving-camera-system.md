@@ -43,6 +43,6 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 
 <div class="pull-right">
   <b>Buy Now:</b>
-  <button id="buy-{{ page.slug }}-2" data-product-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-large buy" onClick="_gaq.push(['_trackEvent', 'buy', 'button', 'Tried to buy {{ page.title }}.']);"><i class="icon-shopping-cart icon-white"></i>{{ page.price }}</button>
+  <button id="buy-{{ page.slug }}-2" data-product-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-large buy" onClick="_gaq.push(['_trackEvent', 'buy', 'button', 'Tried to buy {{ page.title }}.']);"><i class="fa fa-shopping-cart fa-lg"></i> {{ page.price }}</button>
 </div>
 <br/>

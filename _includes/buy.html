@@ -1,24 +1,25 @@
-<div id="aamodal" title="Purchase Product" style="display:none;">
+<div id="buy-modal" title="Purchase Product" style="display:none;">
    <div class="modal-header">
    	<span class="lead">Product Checkout<img src="/img/new_visa_medium.gif" class="pull-right"></span>
+      <p><strong>The payments system is has not been fully set up on this site yet. We will email you information about how to purchase this product shorty.</strong></p>
    </div>
    <div class="modal-body">
    	<label><i class="icon-user"></i><span>Name on Card</span></label>	
-   	<input type="text" class="input-medium">
+   	<input type="text" class="input-medium" disabled>
 		<label><i class="icon-barcode"></i><span>Card Number</span></label>
-		<input type="text" placeholder="•••• •••• •••• ••••" maxlength="16" class="input-medium">
+		<input type="text" placeholder="•••• •••• •••• ••••" maxlength="16" class="input-medium" disabled>
 		<label><i class="icon-time"></i><span>Expiration Date</span></label>
-		<input type="text" placeholder="MMYY" maxlength="4" class="input-mini">
+		<input type="text" placeholder="MMYY" maxlength="4" class="input-mini" disabled>
 		<label><i class="icon-qrcode"></i><span>Card Code</span></label>
-		<input type="text" placeholder="CVC" maxlength="4" class="input-mini">
+		<input type="text" placeholder="CVC" maxlength="4" class="input-mini" disabled>
    </div>
    <div class="modal-footer">
    	<button id="buy-cancel" data-dismiss="modal" aria-hidden="true" class="btn">Cancel</button>
-   	<button id="buy-confirm" class="btn btn-primary">Buy</button>
+   	<button id="buy-confirm" class="btn btn-primary" disabled>Buy</button>
    </div>
 </div>
 
-<div id="modal" title="Purchase Product" style="display:none;">
+<div id="email-modal" title="Purchase Product" style="display:none;">
    <div class="modal-header">
       <span class="lead">Please Enter your Email Address</span>
    </div>
@@ -27,7 +28,7 @@
       <input type="text" class="input-medium">
    </div>
    <div class="modal-footer">
-      <button id="buy-cancel" data-dismiss="modal" aria-hidden="true" class="btn">Cancel</button>
-      <button id="buy-confirm" class="btn btn-primary">Next</button>
+      <button id="email-cancel" data-dismiss="modal" aria-hidden="true" class="btn">Cancel</button>
+      <button id="email-next" class="btn btn-primary">Next</button>
    </div>
 </div>

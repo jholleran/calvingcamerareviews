@@ -1046,26 +1046,46 @@ $(function () {
 
     $('#' + id).click(function () {
       $('#product-title').text(title);
-      $('#modal').dialog({
+      $('#email-modal').dialog({
         resizable: false,
         width: 400,
         modal: false
       });
-      $('#buy-confirm').click(function () {
-        //humane.log('Your order has been submitted!');
-        $('#modal').dialog('close');
+      $('#email-next').click(function () {
+        displayBuyDialog();
+        $('#email-modal').dialog('close');
         $('#' + id).attr('disabled', 'true');
         //$.post('/buy', { slug: slug });
+
       });
-      $('#buy-cancel').click(function () {
-        //humane.log('Your order has been submitted!');
-        $('#modal').dialog('close');
+      $('#email-cancel').click(function () {
+        $('#email-modal').dialog('close');
         $('#' + id).attr('disabled', 'true');
         //$.post('/buy', { slug: slug });
       });
     });
   });
+
+
+  function displayBuyDialog() {
+    $('#buy-modal').dialog({
+        resizable: false,
+        width: 400,
+        modal: false
+      });
+
+    $('#buy-confirm').click(function () {
+      $('#buy-modal').dialog('close');
+      //$.post('/buy', { slug: slug });
+    });
+    $('#buy-cancel').click(function () {
+      $('#buy-modal').dialog('close');
+      //$.post('/buy', { slug: slug });
+      //humane.log('Your order has been submitted!');
+    });
+  }
 });
+
 
 /**
  * Rating System
