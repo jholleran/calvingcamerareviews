@@ -1046,31 +1046,9 @@ $(function () {
 
     $('#' + id).click(function () {
       $('#product-title').text(title);
-      $('#email-modal').dialog({
+      $('#buy-modal').dialog({
         resizable: false,
-        width: 400,
-        modal: false
-      });
-      $('#email-next').click(function () {
-        displayBuyDialog();
-        $('#email-modal').dialog('close');
-        $('#' + id).attr('disabled', 'true');
-        //$.post('/buy', { slug: slug });
-
-      });
-      $('#email-cancel').click(function () {
-        $('#email-modal').dialog('close');
-        $('#' + id).attr('disabled', 'true');
-        //$.post('/buy', { slug: slug });
-      });
-    });
-  });
-
-
-  function displayBuyDialog() {
-    $('#buy-modal').dialog({
-        resizable: false,
-        width: 400,
+        width: 450,
         modal: false
       });
 
@@ -1083,7 +1061,8 @@ $(function () {
       //$.post('/buy', { slug: slug });
       //humane.log('Your order has been submitted!');
     });
-  }
+    });
+  });
 });
 
 
