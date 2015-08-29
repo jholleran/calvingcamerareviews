@@ -49,6 +49,8 @@ These Directional Antennas are power by <a href="http://en.wikipedia.org/wiki/Po
 ##Wireless Security
 Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set up correctly on these Antennas, and are password protected. This will encrypt the data being sent, to and from the antennas, and prevent other, unwanted guests, from hacking into your network. The radio signal from these Directional Antenna can picked up from a very long distance away so it would be better to be safe.
 
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% assign page = site.data.long-range-cc-system-data %}
 {% include product-preview.html %}

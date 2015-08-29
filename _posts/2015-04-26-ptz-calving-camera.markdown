@@ -34,6 +34,8 @@ The most common, and popular, type of Camera with PTZ functionality is an [IP Ca
 - Need to have a two way communication between Camera and Computer
 - More expensive than static Camera
 
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% assign page = site.data.short-range-cc-system-data %}
 {% include product-preview.html %}

@@ -29,6 +29,8 @@ The Camera is connected into the Directional Antenna in the Shed and transmits t
 
 In a later post I will go into detail about the type of Antennas that can be used and how to set them up. If you want to get notifications of these posts you can follow us on Twitter or friend us up on Facebook using the links bellow.
 
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% assign page = site.data.long-range-cc-system-data %}
 {% include product-preview.html %}

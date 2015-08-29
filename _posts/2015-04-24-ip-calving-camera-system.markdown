@@ -71,6 +71,8 @@ The great thing about having an IP Camera is that it is compatable with a lot of
 
 <img src="{{site.baseurl}}/img/cows-on-ipad.jpg" alt="viewing a calving camera on an ipad">
 
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% assign page = site.data.short-range-cc-system-data %}
 {% include product-preview.html %}

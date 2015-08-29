@@ -53,3 +53,6 @@ Another downside to Analog CCTV is the cameras image quality is not as good as i
 
 
 Before you buy any equipment make sure they are compatible with each other. The best way is to check the specification and the connector types so they can be plugged into together. Most of the Analog Cameras and Video Splitter use BNC input connectors. It's a good idea to check that out before you buy.
+
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>

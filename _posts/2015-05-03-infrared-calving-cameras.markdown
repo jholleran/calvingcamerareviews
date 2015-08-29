@@ -25,5 +25,8 @@ The picture quality will not be as good as viewing during day light. The picture
 
 Without Infrared Night Vision you would need to keep the lights on in your shed at night which will increase your electricity bill.
 
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
 {% assign page = site.data.short-range-cc-system-data %}
 {% include product-preview.html %}

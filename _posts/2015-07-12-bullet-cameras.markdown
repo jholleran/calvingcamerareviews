@@ -45,5 +45,9 @@ Below is a typical connection diagram of how an IP system, with bullet cameras, 
   <figcaption style="text-align: center;">IP Calving Camera System with Bullet Cameras</figcaption>
 </figure>
 
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+
 {% assign page = site.data.ip-bullet-cc-system-data %}
 {% include product-preview.html %}

@@ -96,9 +96,9 @@ If neither the modem nor IP camera has a DDNS client built in a DDNS client can 
 
 With either of these two set up you will be able to connect and monitor you calving camera from anywhere in the world. You can use any laptop, PC or smart phone. All you need is an Internet connection. I hope you found this article useful. If you have any questions then feel free to [contact us](/contact). 
 
+<br>
+<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
-
-<br/>
 <div>
 {% include products-preview.html %}
 </div>
