@@ -34,8 +34,9 @@ layout: default
 					<span> Tip: Mouse over the product to see a large picture.</span>
 				</small>
 			-->
+				<div class="fb-like row" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 			</div>
-			<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+			<br/>
 			<div class="row">
 				{% for image in page.images %}
 				<div class="col-md-3">
@@ -63,7 +64,6 @@ layout: default
 			</script>
 			<br/>
 			<h3>Product Summary</h3>
-			<br>
 			<div>
             {{ content }}
         	</div>
