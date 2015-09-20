@@ -25,17 +25,18 @@ images:
 
 This Calving Camera System is ideal if you want to monitor your animals remotely from the comfort of your own home. This system is compatible with any PC, Laptop, Tablet or Smartphone. The Camera has Pan/Tilt & Zoom (PTZ) functionality that gives you much greater viewing coverage of your Shed.
 
-The system is ideal when there is a long distance between your House and your Shed. It makes a wireless connection to the Shed with two IP Directional Antennas. The maximum range of this is system 2km with a clear line of sight.
+Installing this system is a simple DIY job and should take no more than a couple of hours. All the devices connect together with ethernet cables and need very little configuration to get started.
+
+
+The Foscam Wireless Pan/Tilt/Zoom Outdoor IP Camera features a high quality video sensor combined with a hardened IP66 waterproof enclosure as well as night vision. It also includes an IR-Cut Filter lens for true color images that are not washed out. 
+The <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> funcionality allows you to scan 360 degree around your shed give you more coverage from a single camera.
+
+This system is ideal when there is a long distance between your House and your Shed. It makes a wireless connection to the Shed with two IP Directional Antennas. The maximum range of this is system 5km with a clear line of sight.
 
 <figure>
   <img src="{{site.baseurl}}/img/connecting-buildings-colored.png" alt="Connecting buildings with WI-FI" style="width: 100%;">
   <figcaption style="text-align: center;">Connecting buildings with WI-FI</figcaption>
 </figure>
-
-If you want to get more information about how to set this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas</a>
-
-
-The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> functions so you can scan 360 degree around the shed. It also has high quality video, so enjoy clear uninterrupted camera footage from your laptop, computor, or smart phone.
 
 This system can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-calving-camera-over-the-internet.html">connected to the Internet</a> which allows you to connect to the camera from anywhere on the world, with an Internet connection.
 
@@ -46,6 +47,8 @@ This system can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-
 - Pan/Tilt & Zoom
 - Long distance wireless conectivity
 - Can be connected to the Internet
+- Audio and microphone connections
+- Waterproof IP66 rated 
 
 
 ###Connection Diagram
@@ -57,8 +60,10 @@ Here is a connection diagram of how the full Calving Camera System is connected 
 <br>
 
 Simply, connect the IP Camera to one of the Directional Antennas with an Ethernet cable. On the house side, connect the other Antenna to your wifi Router. Both Directional Antennas are powered with the POE injectors. 
+For more information about how to set this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas Setup</a>.
 
-###Equipment
+
+###Kit Includes
 
 - 1 IP PTZ Outdoor Camera
 - 2 Wireless Directional Antennas
@@ -66,6 +71,8 @@ Simply, connect the IP Camera to one of the Directional Antennas with an Etherne
 - 2 20 meter Ethernet Cables
 - 1 10 meter Ethernet Cable
 - 1 Router/Modem (optional)
+- AC power supplies
+- User manuals
 
 
 <div class="pull-right">

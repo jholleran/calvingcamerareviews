@@ -27,6 +27,8 @@ images:
 
 This Calving Camera System comprises of IP bullet cameras, for high resolution, crisp and clear video, and directional antennas for long range Wi-Fi connectivity. This system is ideal when there is a long distance between the shed and the house.
 
+Installing this system is a simple DIY job and should take no more than a couple of hours. All the devices connect together with ethernet cables and need very little configuration to get started.
+
 If you want to get more information about how to set this type of system see the following articles: 
 
  - [Bullet Cameras]({{site.baseurl}}/cameras/2015/07/12/bullet-cameras.html)

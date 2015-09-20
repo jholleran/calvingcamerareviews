@@ -36,11 +36,12 @@ Here is a connection diagram of how the Direction Antennas are integrated into t
 <br>
 
 ##Ubiquiti NanoStation
-The <a href="http://www.amazon.com/gp/product/B004EGI3CI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004EGI3CI&linkCode=as2&tag=jhollerano-20&linkId=APRWR6VNXX5WNQRM">Ubiquiti NanoStation loco M2</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=jhollerano-20&l=as2&o=1&a=B004EGI3CI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a very good, plug and play, product that is very simple to integrate with most IP Cameras, and other network devices. 
+The <a href="https://www.ubnt.com/airmax/nanostationm/">Ubiquiti NanoStation loco M2</a> is a very good, plug and play, directional antenna that is very simple to integrate with most IP Cameras, and other network devices. 
 
-The loco M2 transmits at 150 Mbps, which is very fast and is more than enough to transmit live video from the Camera very smoothly. It also has a very long range of 5+ km, which is sufficient for most farms, but if you need a longer range you can get the <a href="http://www.amazon.com/gp/product/B004EHSV4W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004EHSV4W&linkCode=as2&tag=jhollerano-20&linkId=D2ICM7EKQFEM2PIO">Ubiquiti NanoStation loco M5</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=jhollerano-20&l=as2&o=1&a=B004EHSV4W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> which will transmit up to 10+ km.
+The loco M2 transmits at 150 Mbps, which is very fast and is more than enough to transmit live video from the Camera very smoothly. It also has a very long range of 5+ km, which is sufficient for most farms, but if you need a longer range you can get the Ubiquiti NanoStation loco M5 which will transmit up to 10+ km.
 
-These Antennas can be used outdoors and can be mounted to a pole.
+These Antennas are suitable to be used outdoors and can be mounted to a pole or chimnely.
+For more information about these antennas see the <a href="https://www.ubnt.com/airmax/nanostationm/">Ubiquiti NanoStation Web Site</a>.
 
 ##POE
 These Directional Antennas are power by <a href="http://en.wikipedia.org/wiki/Power_over_Ethernet">POE</a>. POE stands for Power over Ethernet. This basically means that the Antenna is powered by the Ethernet Cable and means that there is no need for a separate power cable.
@@ -49,7 +50,11 @@ These Directional Antennas are power by <a href="http://en.wikipedia.org/wiki/Po
 ##Wireless Security
 Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set up correctly on these Antennas, and are password protected. This will encrypt the data being sent, to and from the antennas, and prevent other, unwanted guests, from hacking into your network. The radio signal from these Directional Antenna can picked up from a very long distance away so it would be better to be safe.
 
-<br>
+##Buy On Amazon
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B004ZCKNYW&asins=B004ZCKNYW&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+<br/>
 <div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% assign page = site.data.long-range-cc-system-data %}
