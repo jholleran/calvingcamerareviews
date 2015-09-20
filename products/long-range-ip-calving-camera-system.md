@@ -4,7 +4,7 @@ slug: long-range-ip-camera
 title: Long Range IP Calving Camera System
 subTitle: Long Range IP Calving Camera System
 image: ip-calving-camera-system.png
-price: €855.00
+price: €499.00
 rating: 4.6
 text-color: gray
 nav-color: gray
@@ -43,11 +43,11 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 
 ###Equipment
 
-- 1 IP PTZ Camera
+- 1 IP PTZ Outdoor Camera
 - 2 Wireless Directional Antennas
 - 2 20 meter Ethernet Cables
-- 1 Router
-
+- 1 10 meter Ethernet Cable
+- 1 Router/Modem
 
 <div class="pull-right">
   <b>Buy Now:</b>
@@ -55,4 +55,19 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 </div>
 <br/>
 
+##Buy On Amazon
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00IV4QE2A&asins=B00IV4QE2A&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B004ZCKNYW&asins=B004ZCKNYW&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A4I71BO&asins=B00A4I71BO&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A51Q1O8&asins=B00A51Q1O8&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00NEQZ12Y&asins=B00NEQZ12Y&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
