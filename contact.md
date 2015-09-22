@@ -24,5 +24,3 @@ If you have any questions about the content in this blog, or if you have any fee
 	"email" : "{{ site.email }}"
 	}
 </script>
-
- If you want to get notifications of new posts to the site you can follow us on Twitter or friend us up on Facebook using the links bellow.

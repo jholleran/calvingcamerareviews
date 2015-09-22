@@ -23,32 +23,35 @@ images:
      name: poe-injector.png
 ---
 
-This Calving Camera System is ideal if you want to monitor your animals remotely from the comfort of your own home. This system is compatible with any PC, Laptop, Tablet or Smartphone. The Camera has Pan/Tilt & Zoom (PTZ) functionality that gives you much greater viewing coverage of your Shed.
+This Calving Camera System is ideal if you want to monitor your animals remotely from the comfort of your own home. It can also be used to monitor lambing, foaling, or general farm security.
 
-Installing this system is a simple DIY job and should take no more than a couple of hours. All the devices connect together with ethernet cables and need very little configuration to get started.
+The IP Camera produces high quality 1.3 MegaPixel High Definition video combined with Pan/Tilt & Zoom (PTZ) functionality giving you clear 360 degrees coverage of your shed. It also contain 21 Infrared LEDs for nightvision surveillance up to 20 meters. The camera is suitable for outdoor use as it enclosed inside a hardened IP66 waterproof housing.
 
 
-The Foscam Wireless Pan/Tilt/Zoom Outdoor IP Camera features a high quality video sensor combined with a hardened IP66 waterproof enclosure as well as night vision. It also includes an IR-Cut Filter lens for true color images that are not washed out. 
-The <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> funcionality allows you to scan 360 degree around your shed give you more coverage from a single camera.
-
-This system is ideal when there is a long distance between your House and your Shed. It makes a wireless connection to the Shed with two IP Directional Antennas. The maximum range of this is system 5km with a clear line of sight.
+This system is ideal when there is a long distance between your House and your Shed. It makes a Wi-Fi wireless connection to the Shed with two outdoor IP Directional Antennas. The maximum range of this is system 5km with a clear line of sight.
 
 <figure>
   <img src="{{site.baseurl}}/img/connecting-buildings-colored.png" alt="Connecting buildings with WI-FI" style="width: 100%;">
   <figcaption style="text-align: center;">Connecting buildings with WI-FI</figcaption>
 </figure>
 
-This system can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-calving-camera-over-the-internet.html">connected to the Internet</a> which allows you to connect to the camera from anywhere on the world, with an Internet connection.
+Installing this system is a simple DIY job and should take no more than a couple of hours. All the devices connect together with ethernet cables and need very little configuration to get started.
+
+
+
+The system compatible with any PC, Laptop, Tablet or Smartphone and can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-calving-camera-over-the-internet.html">connected to the Internet</a> which allows you to connect to the camera from anywhere on the world, with an Internet connection.
 
 ###Features
-- High Quality Video
-- Nightvision
-- Wifi
-- Pan/Tilt & Zoom
+- High Quality 1.3 MegaPixel High Definition Video
+- Pan/Tilt & Zoom Functionality
+- 3x Optical Zoom & Auto-Focus
+- Night Surveillance Up To 20 Meters
 - Long distance wireless conectivity
+- Wi-Fi compliant with wireless standards IEEE 802.11b/g/n
 - Can be connected to the Internet
 - Audio and microphone connections
 - Waterproof IP66 rated 
+- Compatible With iOS (iPhone/iPad) & Android
 
 
 ###Connection Diagram
@@ -59,8 +62,7 @@ Here is a connection diagram of how the full Calving Camera System is connected 
 </figure>
 <br>
 
-Simply, connect the IP Camera to one of the Directional Antennas with an Ethernet cable. On the house side, connect the other Antenna to your wifi Router. Both Directional Antennas are powered with the POE injectors. 
-For more information about how to set this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas Setup</a>.
+For more information about how to connect up this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas Setup</a>.
 
 
 ###Kit Includes
