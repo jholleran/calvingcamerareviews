@@ -5,7 +5,7 @@ title: Products
 subTitle: Calving Camera Products
 bg-img: products_bg.png
 description: |
-  A list of calving camera systems that are available for purchase. The list contains long range and short range IP calving camera systems.
+  High quaility Calving Camera Systems available for purchase. Here you will find different types of systems to suit your needs, from IP PTZ Calvings to IP Bullet Cameras integrated with long range Directional Antennas.
 
 ---
 

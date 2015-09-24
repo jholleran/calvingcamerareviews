@@ -8,7 +8,7 @@ price: €499.00
 rating: 4.6
 text-color: gray
 nav-color: gray
-description: Long range IP calving camera system are used when there is a long distance between the shed and the house. It combines a calving camera with two wireless directional antennas. 
+description: This long range IP Calving Camera System for wirelessly bridging long distances between farm buildings. It combines a high quailty IP PTZ Dome Calving Camera with two wireless Directional Antennas. 
 
 images:
    - title: IP Camera with Pan\Tilt & Zoom functionality.

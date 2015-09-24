@@ -8,7 +8,7 @@ price: €325.00
 rating: 4.4
 text-color: gray
 nav-color: gray
-description: IP Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. Ideal when there is not a large distance from house to the shed.
+description: IP Done Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. This system is wired back to the house with an ethernet cable.
 
 images:
    - title: IP Camera with Pan\Tilt & Zoom functionality.

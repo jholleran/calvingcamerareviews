@@ -4,6 +4,8 @@ title: About
 subTitle: What is this site about?
 permalink: /about/
 bg-img: about-bg.jpg
+description: |
+  This site is dedicated to providing the best free information about Calving Camera Systems. It describes how to set up, install, and configure different types of Calving Camera Systems that you can use on your farm.
 ---
 
 #Information
