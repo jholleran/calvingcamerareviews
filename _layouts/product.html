@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post" vocab="http://schema.org/" typeof="Product">
 
 	<header class="intro-header">
 		<!-- all we want here is a margin -->
@@ -13,17 +13,22 @@ layout: default
           	<div class="hero-unit">
 				<div class="row">
 					<div class="col-md-3">
-						<img src="/img/products/{{ page.image }}" id="tooltip-{{ page.slug }}" rel="tooltip" title="{{page.subTitle}}" class="img-polaroid small-img" />
+						<img property="image" src="{{ site.url }}/img/products/{{ page.image }}" id="tooltip-{{ page.slug }}" title="{{page.subTitle}}" class="img-polaroid small-img" alt="{{page.subTitle}}"/>
 					</div>
 					<div class="col-md-7">
 						<p>
+							<strong></strong>
+							<span property="brand" typeof="Organization" content="{{ site.title }}"></span>
 							<strong>Title:</strong>
-							<span>{{page.title}}</span>
+							<span property="name">{{page.title}}</span>
 							<br>
-							<strong>Rating:&nbsp;</strong>
-							<span class="stars" id="rating-{{ page.slug }}" data-rating="{{page.rating}}" data-suspended="suspended" data-star-big="Yes">
+							<span property="aggregateRating" typeof="AggregateRating">
+								<strong>Rating:&nbsp;</strong>
+								<span class="stars" id="rating-{{ page.slug }}" data-rating="{{page.rating}}" data-suspended="suspended" data-star-big="Yes">
+								</span>
+								<span property="ratingValue">{{page.rating}}</span>
+								(<span property="reviewCount">{{page.reviewCount}}</span> reviews)
 							</span>
-							<span>{{page.rating}}</span>
 						</p>
 					<!--
 						<button id="buy-{{ page.slug }}" data-game-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-large buy" onClick="_gaq.push(['_trackEvent', 'buy', 'button', 'Tried to buy {{ page.title }}.']);"><i class="fa fa-shopping-cart fa-lg"></i> {{page.price}}</button>
@@ -42,11 +47,11 @@ layout: default
 			<div class="row">
 				{% for image in page.images %}
 				<div class="col-md-3">
-					<img src="/img/products/{{ image.name }}" id="tooltip-{{ image.slug }}" rel="tooltip" title="{{ image.title }}" class="img-polaroid small-img" />
+					<img src="{{ site.url }}/img/products/{{ image.name }}" id="tooltip-{{ image.slug }}" title="{{ image.title }}" class="img-polaroid small-img" />
 				</div>
 				{% endfor %}
 			</div>
-
+<!--
 			<script type="application/ld+json">
 			{
 				"@context": "http://schema.org",
@@ -64,6 +69,7 @@ layout: default
 				}
 			}
 			</script>
+-->
 			<br/>
 			<h3>Product Summary</h3>
 			<div>

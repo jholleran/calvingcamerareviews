@@ -6,6 +6,7 @@ subTitle: Short Range PTZ IP Calving Camera System
 image: short-range-ip-calving-camera-system.png
 price: €325.00
 rating: 4.4
+reviewCount: 5
 text-color: gray
 nav-color: gray
 description: IP Done Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. This system is wired back to the house with an ethernet cable.

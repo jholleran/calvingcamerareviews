@@ -1,11 +1,12 @@
 ---
 layout: product
 slug: long-range-ip-camera
-title: Long Range IP Calving Camera System
+title: Long Range Calving Camera System
 subTitle: Long Range IP Calving Camera System
 image: ip-calving-camera-system.png
 price: €499.00
 rating: 4.6
+reviewCount: 12
 text-color: gray
 nav-color: gray
 description: This long range IP Calving Camera System for wirelessly bridging long distances between farm buildings. It combines a high quailty IP PTZ Dome Calving Camera with two wireless Directional Antennas. 
@@ -23,9 +24,9 @@ images:
      name: poe-injector.png
 ---
 
-This Calving Camera System is ideal if you want to monitor your animals remotely from the comfort of your own home. It can also be used to monitor lambing, foaling, or general farm security.
+<span property="description">This Calving Camera System is ideal if you want to monitor your animals remotely from the comfort of your own home. It can also be used to monitor lambing, foaling, or general farm security.</span>
 
-The IP Camera produces high quality 1.3 MegaPixel High Definition video combined with Pan/Tilt & Zoom (PTZ) functionality giving you clear 360 degrees coverage of your shed. It also contain 21 Infrared LEDs for nightvision surveillance up to 20 meters. The camera is suitable for outdoor use as it enclosed inside a hardened IP66 waterproof housing.
+The IP Camera produces high quality 1.3 MegaPixel High Definition video combined with Pan/Tilt & Zoom (PTZ) functionality giving you clear 360 degrees coverage of your shed. It also contain 21 Infrared LEDs for night vision surveillance up to 20 meters. The camera is suitable for outdoor use as it enclosed inside a hardened IP66 waterproof housing.
 
 
 This system is ideal when there is a long distance between your House and your Shed. It makes a Wi-Fi wireless connection to the Shed with two outdoor IP Directional Antennas. The maximum range of this is system 5km with a clear line of sight.
@@ -46,7 +47,7 @@ The system compatible with any PC, Laptop, Tablet or Smartphone and can be easil
 - Pan/Tilt & Zoom Functionality
 - 3x Optical Zoom & Auto-Focus
 - Night Surveillance Up To 20 Meters
-- Long distance wireless conectivity
+- Long distance wireless connectivity
 - Wi-Fi compliant with wireless standards IEEE 802.11b/g/n
 - Can be connected to the Internet
 - Audio and microphone connections
