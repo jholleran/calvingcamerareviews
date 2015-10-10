@@ -3,7 +3,7 @@ layout: product
 slug: ip-bullet-camera
 title: IP Bullet Calving Camera System
 subTitle: Calving Camera System with IP Bullet Cameras
-image: ip-bullet-calving-camera-system.png
+image: long-range-ip-bullet-calving-camera-system.png
 price: €820.00
 rating: 4.1
 reviewCount: 7
