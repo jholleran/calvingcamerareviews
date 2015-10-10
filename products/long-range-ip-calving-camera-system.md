@@ -73,7 +73,7 @@ For more information about how to connect up this type of system see this link: 
 - 2 POE Injectors
 - 2 20 meter Ethernet Cables
 - 1 10 meter Ethernet Cable
-- 1 Router/Modem (optional)
+- 1 Router/Modem
 - AC power supplies
 - User manuals
 
@@ -85,7 +85,11 @@ For more information about how to connect up this type of system see this link: 
 <br/>
 -->
 
-##Buy On Amazon
+If you have any questions about this systems, or would like a quotation, please feel free to <b><a href="/contact">contact us</a></b>.
+
+##Buying this system through Amazon
+
+Here are links to products on Amazon if you would like to build this system yourself:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00IV4QE2A&asins=B00IV4QE2A&linkId=&show_border=true&link_opens_in_new_window=true">
 </iframe>

@@ -22,13 +22,14 @@ images:
      name: 8-port-poe-switch.png
    - title: POE Injector for powering the antenna (house side)
      name: poe-injector.png
-   - title: Router to connect the system to PC or Laptop
-     name: router.jpg
+   - title: Router to connect system to PC or Laptop.
+     name: tp-link-router.jpg
 ---
 
-This Calving Camera System comprises of IP bullet cameras, for high resolution, crisp and clear video, and directional antennas for long range Wi-Fi connectivity. This system is ideal when there is a long distance between the shed and the house.
+<span property="description">This Calving Camera System comprises of an IP bullet camera, for high resolution, crisp and clear video, and directional antennas for long range Wi-Fi connectivity. This system is ideal when there is a long distance between the shed and the house.
 
-Installing this system is a simple DIY job and should take no more than a couple of hours. All the devices connect together with ethernet cables and need very little configuration to get started.
+Installing this system is a simple DIY job and should take no more than a couple of hours to set up. All the devices connect together with ethernet cables and need very little configuration to get started.
+</span>
 
 If you want to get more information about how to set this type of system see the following articles: 
 
@@ -48,7 +49,7 @@ Bellow is a connection diagram how the system is setup and connected together.
 
 Here we have two IP bullet cameras connected to, and powered by, a POE network switch using ethernet cables. The POE network switch also connects, and powers, a directional antenna. 
 
-The POE network switch simpifies the system by powering the cameras and the antenna through the ethernet cables. Without it, the other devices will need a separate power sources. If the system, you intend to build, will only ever have one camera then there is no need for the POE network switch, the camera can be connected directly to the antenna with an ethernet cable.
+The POE network switch simpifies the system by powering the cameras and the antenna through the ethernet cables. Without it, the other devices will need a separate power sources. If the system, you intend to build, will only ever have one camera then there is no need for the POE network switch. A single port POE Injector will be sufficent to power the camera.
 
 The directional antenna will make a Wi-Fi connection to the other directional antenna. These antennas will need a clear line of sight to maximise there range and connection quality. The maximum range of this is system 5km.
 
@@ -58,19 +59,46 @@ If the distance between the house and the shed is not that long, for example les
 
 This system can be easily expanded. To add more cameras just plug them into the POE network switch. As long as there are spare ports on the POE network switch then more cameras can be added. So, if you might need more cameras in the future its a good idea to have plenty of spare POE ports on the network switch.
 
-###Equipment
+###Kit Includes
 
 - 2 IP Bullet Camera(s)
 - 2 Wireless Directional Antennas
-- 1 Four port POE Network Switch
+- 1 Eight port POE Network Switch
 - 1 POE Injector
 - 3 20 meter Ethernet Cables
-- 1 Router
+- 1 10 meter Ethernet Cable
+- 1 Router/Modem
+- AC power supplies
+- User manuals
 
-
-
+<!--
 <div class="pull-right">
   <b>Buy Now:</b>
   <button id="buy-{{ page.slug }}-2" data-product-title="{{ page.title }}" role="button" data-toggle="modal" class="btn btn-primary btn-large buy" onClick="_gaq.push(['_trackEvent', 'buy', 'button', 'Tried to buy {{ page.title }}.']);"><i class="fa fa-shopping-cart fa-lg"></i> {{ page.price }}</button>
 </div>
 <br/>
+-->
+
+If you have any questions about this systems, or would like a quotation, please feel free to <b><a href="/contact">contact us</a></b>.
+
+##Buying this system through Amazon
+
+Here are links to products on Amazon if you would like to build this system yourself:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00G7GMEOG&asins=B00G7GMEOG&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B004ZCKNYW&asins=B004ZCKNYW&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B001PS4NRM&asins=B001PS4NRM&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A4I71BO&asins=B00A4I71BO&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A51Q1O8&asins=B00A51Q1O8&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00NEQZ12Y&asins=B00NEQZ12Y&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
