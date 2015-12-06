@@ -35,3 +35,22 @@ gems:
 
 # Excludes files and directories from being deployed into _site
 exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, scss, less]
+
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments :
+provider : disqus
+disqus :
+  short_name : jholleranblog
+livefyre :
+  site_id : 123
+intensedebate :
+  account : 123abc
+facebook :
+  appid : 123
+  num_posts: 5
+  width: 580
+  colorscheme: light

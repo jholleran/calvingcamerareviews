@@ -78,6 +78,8 @@ layout: default
 			<br/>
 			<div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
             <br/>
+   			{% include disqus.html %}
+   			<br/>
 			<a href="/products">
 			    <h3>Other products</h3>
 			</a>
@@ -109,7 +111,6 @@ layout: default
 		          {% endif %}
 		       {% endfor %}
 			</div>
-
           </div>
       </div>
     </div>
