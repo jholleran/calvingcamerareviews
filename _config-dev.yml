@@ -42,15 +42,6 @@ exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, scss, less]
 # Set 'provider' to false to turn commenting off globally.
 #
 comments :
-provider : disqus
-disqus :
-  short_name : jholleranblog
-livefyre :
-  site_id : 123
-intensedebate :
-  account : 123abc
-facebook :
-  appid : 123
-  num_posts: 5
-  width: 580
-  colorscheme: light
+  provider : disqus
+  disqus :
+    short_name : test12345676

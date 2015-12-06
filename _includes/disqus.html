@@ -11,10 +11,12 @@ this.page.url = "{{ page.url | prepend: site.url }}"; // Replace PAGE_URL with y
 this.page.identifier = "{{ page.heading}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 
+var disqus_shortname = '{{ site.comments.disqus.short_name }}'; // required: replace example with your forum shortname
+
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
 
-s.src = 'http://test12345676.disqus.com/embed.js';
+s.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
 
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);

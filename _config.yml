@@ -35,3 +35,13 @@ gems:
 
 # Excludes files and directories from being deployed into _site
 exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, scss, less]
+
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments :
+  provider : disqus
+  disqus :
+    short_name : calvingcamerasystems
