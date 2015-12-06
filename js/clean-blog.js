@@ -8,7 +8,7 @@
 
 $(function() {
 
-    $("input,textarea").jqBootstrapValidation({
+    $("input-ign,textarea-ign").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
             // additional error messages or events
