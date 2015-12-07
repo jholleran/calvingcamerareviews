@@ -8,14 +8,14 @@
                 <br/>
                 <ul class="list-inline text-center">
                     <div>
-                        If you like to get up to date information about this site why not follow us on Google+, Twitter, or Facebook with the following links.
+                        If you like to get up to date information about this site why not follow us on Facebook, Twitter, or Google+ with the following links.
                     </div>
-                    {% if site.google_username %}
+                    {% if site.facebook_username %}
                     <li>
-                        <a href="https://plus.google.com/{{ site.google_username }}" onClick="_gaq.push(['_trackEvent', 'google', 'link', 'Navigated to google plus page from {{ page.title }}.']);">
+                        <a href="https://www.facebook.com/{{ site.facebook_username }}" onClick="_gaq.push(['_trackEvent', 'facebook', 'link', 'Navigated to facebook page from {{ page.title }}.']);">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
@@ -30,12 +30,12 @@
                         </a>
                     </li>
                     {% endif %}
-                    {% if site.facebook_username %}
+                    {% if site.google_username %}
                     <li>
-                        <a href="https://www.facebook.com/{{ site.facebook_username }}" onClick="_gaq.push(['_trackEvent', 'facebook', 'link', 'Navigated to facebook page from {{ page.title }}.']);">
+                        <a href="https://plus.google.com/{{ site.google_username }}" onClick="_gaq.push(['_trackEvent', 'google', 'link', 'Navigated to google plus page from {{ page.title }}.']);">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
