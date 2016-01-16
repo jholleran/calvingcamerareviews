@@ -3,7 +3,7 @@ layout: product
 slug: long-range-ip-camera
 title: Long Range Calving Camera System
 subTitle: Long Range IP Calving Camera System
-image: ip-calving-camera-system.png
+image: long-range-ip-ptz-calving-camera-system.png
 price: €499.00
 rating: 4.6
 reviewCount: 12
@@ -13,7 +13,7 @@ description: This long range IP Calving Camera System for wirelessly bridging lo
 
 images:
    - title: IP Camera with Pan\Tilt & Zoom functionality.
-     name: foscam-ptz-ip-camera.jpg
+     name: hd-mini-speed-done-x10.png
    - title: Long range Directional Antennas.
      name: two-directional-antennas.jpg
    - title: Connect equipement with ethernet cables.
