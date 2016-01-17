@@ -8,7 +8,7 @@ bg-img: hd-mini-speed-dome-background.png
 description: |
   This article is a review of a HD mini speed dome PTZ IP Camera for using as a calving camera. This article goes through the features of the Camera and rates how well the camera has performed.
 
-categories: camera
+categories: review
 ---
 
 ##HD IP PTZ Camera
@@ -46,6 +46,7 @@ The camera also has some nice features such as:
 - Pre-set Points
 - Strong hardened waterproof outer shell
 - It can be viewed using Internet Explorer browser
+- Ethernet Connection (RJ45)
 
 ##Negatives
 The one small problem with these cameras is that you need ActiveX installed on your browser when viewing the video. This is fine for Internet Explorer but other browsers do not support this without extra plugins.
