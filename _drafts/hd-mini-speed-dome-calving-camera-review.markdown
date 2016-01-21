@@ -2,7 +2,7 @@
 layout: post
 heading:  "HD PTZ Calving Camera"
 subHeading:  "HD mini speed PTZ dome calving camera review"
-date:   2016-01-16 21:00:00
+date:   2016-01-21 21:00:00
 nav-color: gray
 bg-img: hd-mini-speed-dome-background.png
 description: |
