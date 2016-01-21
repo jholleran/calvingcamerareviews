@@ -12,11 +12,12 @@ categories: review
 ---
 
 ##Foscam IP Camera
-I've used a Foscam F18918W IP PT camera in the past as a calving camera and I find them fantastic for use in a medium to small sixed shed. They are a nice tidy camera and are easy to setup and use. The picture quaility is 300K pixels which is clear enough to get a good view of whats going on. The camera works best when kept as close as possible to the pen(s) that you want to monitor.
+I've used a Foscam F18918W IP PT camera in the past as a calving camera and I find them fantastic for use in a medium to small sized shed. They are a nice tidy camera and are easy to setup and use. The picture quaility is 300K pixels which is clear enough to get a good view of whats going on. The camera works best when kept as close as possible to the pen(s) that you want to monitor.
+As with all IP based camera they are compatible with other IP equipement such as Routers, Ethernet Switches and Wi-Fi Directional Antennas. 
 
 
 ##PT functionality
-This camera has a 355-degree pan and 90-degree tilt giving the user comprehensive coverage over the monitored site. There is no zoom on this camera. This camera is best suited for a medium to small shed where there is not a large distance to monitor.
+This camera has a 355-degree pan and 90-degree tilt giving the user comprehensive coverage over the monitored site. Unfortunately, there is no zoom on this camera which is why its recommended to position this camera as close to the area you want monitored and use the Pan & Tilt for giving you a good overview of the rest of the shed. 
 
 ##Nightvision
 The Nightvision range of the camera is 15 meters and with 22 IR LEDs the images from the camera in darkness works extremely well and clear. The nightvision is not focused in a single area so the full image from the camera can be seen. Also, as with all nightvision camera the images will be in black and white. 
@@ -35,4 +36,4 @@ The camera also has some nice features such as:
 - Strong hardened waterproof outer shell
 
 ##Negatives
-The only small negative thing I have with this camera is that there is no zoom on it. Other than that its a great camera.
+The only small negative thing I have with this camera is that there is no zoom on it. So if you have a large shed or you want to cover a large area then this is probably not the camera for you. Other than that its a great camera.
