@@ -22,9 +22,9 @@ I've used a Foscam F18918W IP PT camera, in the past, as a calving camera and I 
 As with all IP based cameras they are compatible with other IP equipment such as Routers, Ethernet Switches and Wi-Fi Directional Antennas and can be connected together with a Cat5 or Cat6 Ethernet cable. The camera also has a Wi-Fi antenna so it can connect to a Wi-Fi Router without an Ethernet Cable. This can be handy to reduce the number of cables in the system. The antenna that comes with it works around 20-30 metres in range, so if your house is right beside the side calving shed then it should be able to connect your home router, otherwise you could [install Directional Antennas]({{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html) to create a long range wireless link from the house to the shed.
 
 <figure>
-	<img src="{{site.baseurl}}/img/foscam-F18919W/cam-front.jpg" alt="F18919W Camera Control Panel" style="width: 32%;">
-    <img src="{{site.baseurl}}/img/foscam-F18919W/cam-side.jpg" alt="F18919W Camera Control Panel" style="width: 32%;">
-	<img src="{{site.baseurl}}/img/foscam-F18919W/box.jpg" alt="F18919W Camera Control Panel" style="width: 32%;">
+	<img src="{{site.baseurl}}/img/foscam-F18919W/cam-front.JPG" alt="F18919W Camera Control Panel" style="width: 32%;">
+    <img src="{{site.baseurl}}/img/foscam-F18919W/cam-side.JPG" alt="F18919W Camera Control Panel" style="width: 32%;">
+	<img src="{{site.baseurl}}/img/foscam-F18919W/box.JPG" alt="F18919W Camera Control Panel" style="width: 32%;">
   <figcaption style="text-align: center;">F18919W PT Camera Images</figcaption>
 </figure>
 
