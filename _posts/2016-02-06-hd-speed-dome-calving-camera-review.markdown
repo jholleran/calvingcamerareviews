@@ -42,7 +42,7 @@ The other impressive feature of this camera is the Nightvision. The camera has s
 
 ##PTZ functionality
 The PTZ functionality of this camera is very impressive. The camera can Pan 360 degrees all the way around and tilt a full 90 degrees so it covers a large area and there are no blind spots. Controlling the PTZ is very smooth and it’s extremely easy to point the camera in the direction you desire.
-The camera also has ENTER NUMBER HERE... preset positions. This is very useful for setting areas or pens in the shed where you want to look at regularly. Instead of Panning, tilting and zooming the camera yourself you can just press a button and the camera will automatically go to that exact spot in seconds.
+The camera also has 220 preset positions. This is very useful for setting areas or pens in the shed where you want to look at regularly. Instead of Panning, tilting and zooming the camera yourself you can just press a button and the camera will automatically go to that exact spot in seconds.
 
 ##Other Features
 The camera also has some nice features such as:
@@ -50,7 +50,7 @@ The camera also has some nice features such as:
 - Excellent picture quality
 - DDNS - used for remote viewing over the internet
 - Support ONVIF 2.0, Support P2P, Mobile App
-- Pre-set Points
+- 220 Pre-set Points
 - Strong hardened waterproof outer shell
 - It can be viewed using Internet Explorer browser
 - Ethernet Connection (RJ45)
