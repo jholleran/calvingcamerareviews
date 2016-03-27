@@ -60,8 +60,7 @@ The device will take all the input channels and combine them all together into a
 Video Processors have the capability of viewing all the channels at one time, in a grid, or allow the user to select an individual input channel one at a time in full screen. For example; you could select to only see video for Camera 3 on the TV. There is also an auto feature that will loop through each input channel one at a time. This can be useful as you will get to see a full screen video from each camera. The time that each channel is displayed in the loop can also be configured by the user (for example; 5, 10 15 seconds). Most of these devices also come with a remote control that is useful for changing these settings and flicking between video input channels manually.
 
 
-### Multiple Cameras With A DVR
-
+<h3>Multiple Cameras With A DVR</h3>
 A Digital Video Recorder (DVR) main features are that it can connect up multiple cameras together, like the Video Processor, but it can also record the video from the cameras. A DVR has an internal Hard Drive that it uses to store live video from the cameras. This means that you can look back on passed video from the cameras at a later point. This is a fantastic feature as it makes the Calving Camera work as a security camera and could be useful in the event of a theft on your farm. As with the Video Processor, DVR’s also come with different numbers of input channels (4, 8, 16…) so if you are purchasing one of them take note of the number of ports.
 
 
@@ -71,10 +70,10 @@ A Digital Video Recorder (DVR) main features are that it can connect up multiple
 </figure>
 
 
-####DVR video output connectors
+<h4>DVR video output connectors</h4>
 A DVR usually comes with a lot more connectors than an standard Video Processor that can be used to connect it up to different devices and with different cables. It will have a female BNC connector, same as the Video Processor, which can be used to connect the DVR to a TV, or you can use a HDMI cable, or the VGA cable. 
 
-####Connecting a PTZ Camera to a DVR
+<h4>Connecting a PTZ Camera to a DVR</h4>
 Most DVRs come with a RS-485 connector. This connector can be used to control the Pan/Tilt & Zoom (PTZ) of an Analogue PTZ Camera. An Analogue PTZ Camera will have a coaxial cable, just like the the bullet cameras for the video, but it also has a two core wire that needs to be connected into the RS-485 connector on the DVR. This is for controlling the PTZ of the Camera. So if you want to add a PTZ camera, or thinking of adding one in the future, it’s a good idea to check that the DVR has this RS-485 connector.
 
 
@@ -84,7 +83,7 @@ Most DVRs come with a RS-485 connector. This connector can be used to control th
 </figure>
 
 
-####DVR Ethernet Connection
+<h4>DVR Ethernet Connection</h4>
 Most DVR’s also have an Ethernet port which means that you can connect the systems up to an Ethernet Network. This can allow you to login to the DVR from a PC, Laptop, or Smartphone and view the video from the cameras. This can be a very nice feature to have as it mean that the system can now be connected up to the Internet for remote viewing.
 
 
