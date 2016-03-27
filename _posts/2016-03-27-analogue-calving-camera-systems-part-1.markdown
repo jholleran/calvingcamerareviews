@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 heading:  "Analogue Calving Camera Systems"
 subHeading:  "Part 1"
 date:   2016-03-27 19:00:00
@@ -33,7 +33,7 @@ The Camera will capture live video and send it down the cable where the TV will 
 
 There are limitations to this system as the cable should not exceed 30 metres as the video signal will start to degrade which will affect the video quality displayed on the TV. Also, it is not flexible enough to allow multiple cameras to be added in the future.
 
-<h2>Adding Multiple Cameras To The System<h2>
+<h2>Adding Multiple Cameras To The System</h2>
 Once you have this setup you may want to add more cameras to the system. Unfortunately, it is not as simple as plugging in more cameras to the TV. For starters, most TV’s don’t have enough connections to allow this, and secondly, two cameras cannot be connected to the same connection as both video signals will interfere with each other. To add more Cameras you need either a Video Processor or a DVR.
 
 <h3>Multiple Cameras With A Video Processor</h3>
