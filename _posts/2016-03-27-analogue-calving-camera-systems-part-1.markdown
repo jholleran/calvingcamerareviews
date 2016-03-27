@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 heading:  "Analogue Calving Camera Systems"
 subHeading:  "Part 1"
 date:   2016-03-27 19:00:00
