@@ -14,6 +14,7 @@ categories: internet
 This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address, from your ISP, or with a DDNS. This article will describe in detail how to setup can configure both of these options. The system been described in this article is an IP camera system but a lot of the information is useful for connecting a CCTV camera system up to the Internet.
 
 #Static IP Address
+
 The first option is to get a static IP address of your Internet Service Provider (ISP). Usually by default your ISP will assign a dynamic IP address to your Internet connection that can change from time to time. 
 When your modem is started up it requests an IP address from the ISP. The ISP will return an IP address which will be set on the modem. This address will be used to communicate with other computers on the Internet. After following restarts a different IP may be given from the ISP.
 
@@ -38,6 +39,7 @@ For example, this is an example IP camera settings:
 - Port: 8080
 
 ###Port Forwarding
+
 The next step is to allow the IP camera to be accessed through the modem. The modem will need to be configured to open the port that the camera is running on. Traffic connecting to that port is forwarded on to the camera. This process is called Port Forwarding.
 
 
@@ -63,10 +65,12 @@ If there is an issue at this point, for example if it doesn't display anything t
 
 
 #DDNS
+
 The second option to connecting a calving camera system up to the Internet is to use a Dynamic Domain Name Service ([DDNS](https://en.wikipedia.org/wiki/Dynamic_DNS) or DynDNS). This service works by assigning a domain name to the IP address of your local network. The DDNS will then forward all requests make to this domain name to the IP address.
 
 
 ###Domain Names
+
 A domain name is an easier name to remember than an IP address. An example of this is: http://mycamera.dydns.org. This can be typed directly in a browser. This will go to the DDNS which will forward the request to the IP address of the network. 
 
 
