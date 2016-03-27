@@ -25,9 +25,9 @@ I was very impressed with the zoom on this camera. The x10 optical zoom lets you
 
 
 <figure>
-	<img src="{{site.baseurl}}/img/sw-speed-dome/sw-01.JPG" alt="SW 1080P HD IP PTZ CCTV Camera" style="width: 32%;">
-    <img src="{{site.baseurl}}/img/sw-speed-dome/sw-02.JPG" alt="SW 1080P HD IP PTZ CCTV Camera" style="width: 32%;">
-	<img src="{{site.baseurl}}/img/sw-speed-dome/sw-03.JPG" alt="SW 1080P HD IP PTZ CCTV Camera" style="width: 32%;">
+	<img src="{{site.baseurl}}/img/sw-speed-dome/sw-01.jpg" alt="SW 1080P HD IP PTZ CCTV Camera" style="width: 32%;">
+    <img src="{{site.baseurl}}/img/sw-speed-dome/sw-02.jpg" alt="SW 1080P HD IP PTZ CCTV Camera" style="width: 32%;">
+	<img src="{{site.baseurl}}/img/sw-speed-dome/sw-03.jpg" alt="SW 1080P HD IP PTZ CCTV Camera" style="width: 32%;">
   <figcaption style="text-align: center;">SW 1080P HD IP PTZ CCTV Camera Images</figcaption>
 </figure>
 
