@@ -12,9 +12,9 @@ description: |
 categories: cctv
 ---
 
-#Analog CCTV Camera System
+<h1>Analog CCTV Camera System<h1>
 
-##Equipement
+<h2>Equipement</h2>
 - Analog Camera
 - Video Splitter
 - Coaxial Cable
@@ -25,25 +25,25 @@ If the distance between the Shed, where the camera will be fitted, and the house
 
 Instead of a Video Splitter a [DVR (Digital Video Recorder)](#insert dvr link) can be used to connect up the cameras. DVR are useful if you want to record the video from the camera and back play over the previous days.
 
-##Setup
+<h2>Setup</h2>
 Connect the Cameras to the Video Slitter with a Coaxial Cable. Plug the Camera and Video Splitter power cables in. Connect the Video Splitter to your TV with another Coaxial Cable. Tune your TV to find the Video channel. When you find the channel the Video from the camera should be displayed.
 
 <img src="{{site.baseurl}}/img/cctv-camera-system.jpg" alt="cctv camera system with four cameras">
 
 
-##Advantages
+<h2>Advantages</h2>
 - Easy to setup and install
 - Cheap to buy
 - Analog CCTV is simple
 - Very little configuration to get up and running
 
-##Disadvantages
+<h2>Disadvantages</h2>
 - Scalability - Can hit a limit on the number of cameras
 - Resolution - Old technology that limits video picture quality
 - Flexibility - Can't control the camera remotely (Pan/Tilt/Zoom)
 
 
-###More information
+<h3>More information</h3>
 Analog video has been around for years and is a universal standard. This is by far the simplest type of CCTV system that you can install as most of the equipment just plugs into one another, requiring very little configuration. From a learning curve and installation point of view, Analog CCTV is simple. All you need is an Analog CCTV Camera and a DVR box, run a cable between the two, plug them in and you have an Analog CCTV system up and running. 
 
 Analog CCTV systems are very cheap. You can buy a complete video surveillance bundles that include multiple cameras (4 to 8), cables and DVR (with hard drive) for a couple of hundred euros. 
@@ -54,5 +54,7 @@ Another downside to Analog CCTV is the cameras image quality is not as good as i
 
 Before you buy any equipment make sure they are compatible with each other. The best way is to check the specification and the connector types so they can be plugged into together. Most of the Analog Cameras and Video Splitter use BNC input connectors. It's a good idea to check that out before you buy.
 
+<div>
 <br>
 <div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+</div>

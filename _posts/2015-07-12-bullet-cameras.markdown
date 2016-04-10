@@ -28,16 +28,16 @@ If you are thinking of using bullet cameras to use as a calving camera make sure
 - Night vision
 
 
-###Waterproof
+<h2>Waterproof</h2>
 This is very important, even if the camera will be inside the shed. Most sheds are damp during the winter and dry and dusty during the summer months. Moisture and dust could penetrate and damage the camera. So make sure it's suitable for outdoors and is fully waterproof. A waterproof camera that is well sealed will last longer. Every camera should have an [IP Code](https://en.wikipedia.org/wiki/IP_Code) value that classifies and rates how well the camera is sealed and protected. For example, a camera with an IP66 rating means that the camera is dust tight and can withstand powerful jets for water.
 
-###High picture quality
+<h2>High picture quality</h2>
 Picture quality is very important to have when it's used as a calving camera. You will want to be able to clearly see your animals on a screen. Make sure the camera has a high resolution. The resolution of the video images from a camera is given in megapixels (MP). The more pixels in the video images will give better quality and resolution. For example, a 1MP camera would not be as clear and crisp as a 3MP camera. 
 
-###Night vision
+<h2>Night vision</h2>
 If you want to be able to view at night, or in low light, then night vision is a very useful feature to have. Different cameras have different ranges of night vision. The specs of the camera it should say what its Infrared Range (IR) is. If the IR range of the camera is 30 meters the camera should be able to view up to 30 meters in night vision. Beyond that it could be difficult or unclear to see objects. So always check the IR range spec of the camera to make sure the night vision range is sufficient for your needs. If your camera is overlooking the full shed you will need longer night vision that if it's looking at a close smaller area.
 
-##Connection Diagram
+<h2>Connection Diagram</h2>
 Below is a typical connection diagram of how an IP system, with bullet cameras, is setup and connected together. 
 
 <figure>
@@ -45,9 +45,10 @@ Below is a typical connection diagram of how an IP system, with bullet cameras, 
   <figcaption style="text-align: center;">IP Calving Camera System with Bullet Cameras</figcaption>
 </figure>
 
+<div>
 <br>
 <div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
-
+</div>
 
 {% assign page = site.data.ip-bullet-cc-system-data %}
 {% include product-preview.html %}

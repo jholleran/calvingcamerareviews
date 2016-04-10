@@ -13,7 +13,7 @@ categories: internet
 
 This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address, from your ISP, or with a DDNS. This article will describe in detail how to setup can configure both of these options. The system been described in this article is an IP camera system but a lot of the information is useful for connecting a CCTV camera system up to the Internet.
 
-#Static IP Address
+<h2>Static IP Address</h2>
 
 The first option is to get a static IP address of your Internet Service Provider (ISP). Usually by default your ISP will assign a dynamic IP address to your Internet connection that can change from time to time. 
 When your modem is started up it requests an IP address from the ISP. The ISP will return an IP address which will be set on the modem. This address will be used to communicate with other computers on the Internet. After following restarts a different IP may be given from the ISP.
@@ -38,7 +38,7 @@ For example, this is an example IP camera settings:
 - Subnet Mask: 255.255.255.0
 - Port: 8080
 
-###Port Forwarding
+<h2>Port Forwarding</h2>
 
 The next step is to allow the IP camera to be accessed through the modem. The modem will need to be configured to open the port that the camera is running on. Traffic connecting to that port is forwarded on to the camera. This process is called Port Forwarding.
 
@@ -64,31 +64,31 @@ If there is an issue at this point, for example if it doesn't display anything t
 <br>
 
 
-#DDNS
+<h2>DDNS</h2>
 
 The second option to connecting a calving camera system up to the Internet is to use a Dynamic Domain Name Service ([DDNS](https://en.wikipedia.org/wiki/Dynamic_DNS) or DynDNS). This service works by assigning a domain name to the IP address of your local network. The DDNS will then forward all requests make to this domain name to the IP address.
 
 
-###Domain Names
+<h2>Domain Names</h2>
 
 A domain name is an easier name to remember than an IP address. An example of this is: http://mycamera.dydns.org. This can be typed directly in a browser. This will go to the DDNS which will forward the request to the IP address of the network. 
 
 
-###Setting up a DDNS Account
+<h2>Setting up a DDNS Account</h2>
 There are many different companies on the Internet that provide DDNS services. One of them is [DynDNS](http://dyn.com/dns/) where you can set up an account. If you want a custom domain name, for example; http://myfarmcalvingcamera.com you will need to pay an extra small fee for this.
 
 It's very simple to set this up. Go to a DDNS provider and open an account. You will be able to create a domain name that will be easily remembered.
 
-###DDNS Client
+<h2>DDNS Client</h2>
 As the IP address of the local network will change from time to time the DDNS will need to be told about it. A DDNS client will need to be running on the local network. This will inform the DDNS service of any changes so it can keep its domain name index up to date. This is a small software program that periodically polls the IP address assigned to the LAN. If it discovers that it has changed then it connects to the DDNS service and informs it of the new IP address. The DDNS service takes this new IP address and updates its domain name index. Now when someone enters your domain name into a browser the DDNS will forward this request to the correct IP address.
 
-###Modem with DDNS Client
+<h2>Modem with DDNS Client</h2>
 Most modems have a DDNS client built in internally. This is very easy to setup. Go to device settings on the modem and look for DDNS settings. From there, you can enter the DDNS account information so it can access it to do the update. This will always be the best place to have a DDNS client running as the modem will be the first to know about IP address changes.
 
-###Camera with DDNS Client
+<h2>Camera with DDNS Client</h2>
 Some IP cameras also contain a DDNS client. Go to device settings, in the cameras admin page, and look for DDNS settings. From there you can enter the DDNS account information so it can access it.
 
-###PC with DDNS Client
+<h2>PC with DDNS Client</h2>
 If neither the modem nor IP camera has a DDNS client built in a DDNS client can be installed on a PC. Your DDNS provider will have a DDNS client that can be downloaded. This will run the IP update. The only disadvantages to this are that the PC will need be running at all times to keep the DDNS updated.
 
 
@@ -100,8 +100,10 @@ If neither the modem nor IP camera has a DDNS client built in a DDNS client can 
 
 With either of these two set up you will be able to connect and monitor you calving camera from anywhere in the world. You can use any laptop, PC or smart phone. All you need is an Internet connection. I hope you found this article useful. If you have any questions then feel free to [contact us](/contact). 
 
+<div>
 <br>
 <div class="fb-like" data-href="{{ page.url | prepend: site.url }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+</div>
 
 <div>
 {% include products-preview.html %}
