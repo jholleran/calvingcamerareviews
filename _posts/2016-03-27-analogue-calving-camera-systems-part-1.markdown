@@ -4,9 +4,8 @@ heading:  "Analogue Calving Camera Systems"
 subHeading:  "Part 1"
 date:   2016-03-27 19:00:00
 text-color: gray
-text-bg-color: lightgray
 nav-color: gray
-bg-img: analogue/video-DVR-connected-to-ethernet-background.png
+bg-img: analogue/analogue-calving-camera-systems-bg.png
 description: |
   This article describes how to build an analogue calving camera system. It talks about different setup configurations of systems and also the different types of analogue equipment that can be used.
 
