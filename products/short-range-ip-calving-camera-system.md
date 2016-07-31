@@ -51,7 +51,7 @@ The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.ht
 <br/>
 -->
 
-If you have any questions about this systems, or would like a quotation, please feel free to <b><a href="/contact">contact us</a></b>.
+If you have any questions about this systems please feel free to <b><a href="/contact">contact us</a></b>.
 
 ##Buying this system through Amazon
 

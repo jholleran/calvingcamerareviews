@@ -26,7 +26,7 @@ images:
 
 <span property="description">This Calving Camera System is ideal if you want to monitor your animals remotely from the comfort of your own home. It can also be used to monitor lambing, foaling, or general farm security.</span>
 
-The IP Camera produces high quality 1.3 MegaPixel High Definition video combined with Pan/Tilt & Zoom (PTZ) functionality giving you clear 360 degrees coverage of your shed. It also contain 21 Infrared LEDs for night vision surveillance up to 20 meters. The camera is suitable for outdoor use as it enclosed inside a hardened IP66 waterproof housing.
+The IP Camera produces high video combined with Pan/Tilt & Zoom (PTZ) functionality giving you clear 360 degrees coverage of your shed. It also contain 21 Infrared LEDs for night vision surveillance. The camera is suitable for outdoor use as it enclosed inside a hardened IP66 waterproof housing.
 
 
 This system is ideal when there is a long distance between your House and your Shed. It makes a Wi-Fi wireless connection to the Shed with two outdoor IP Directional Antennas. The maximum range of this is system 5km with a clear line of sight.
@@ -43,10 +43,10 @@ Installing this system is a simple DIY job and should take no more than a couple
 The system compatible with any PC, Laptop, Tablet or Smartphone and can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-calving-camera-over-the-internet.html">connected to the Internet</a> which allows you to connect to the camera from anywhere on the world, with an Internet connection.
 
 ###Features
-- High Quality 1.3 MegaPixel High Definition Video
+- High Quality 2 MegaPixel High Definition Video
 - Pan/Tilt & Zoom Functionality
 - 3x Optical Zoom & Auto-Focus
-- Night Surveillance Up To 20 Meters
+- Night Surveillance Up To 100 Meters
 - Long distance wireless connectivity
 - Wi-Fi compliant with wireless standards IEEE 802.11b/g/n
 - Can be connected to the Internet
@@ -85,17 +85,15 @@ For more information about how to connect up this type of system see this link: 
 <br/>
 -->
 
-If you have any questions about this systems, or would like a quotation, please feel free to <b><a href="/contact">contact us</a></b>.
+If you have any questions about this systems please feel free to <b><a href="/contact">contact us</a></b>.
 
 ##Buying this system through Amazon
 
 Here are links to products on Amazon if you would like to build this system yourself:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B012FQLPG4&asins=B012FQLPG4&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B019ZPND1I&asins=B019ZPND1I&linkId=89c067bb95fc94821370ebc9d30b3a48&show_border=true&link_opens_in_new_window=true"></iframe>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B004ZCKNYW&asins=B004ZCKNYW&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00I4QK8O0&asins=B00I4QK8O0&linkId=701b49aa00741c1f99eb1191e322c163&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A4I71BO&asins=B00A4I71BO&linkId=&show_border=true&link_opens_in_new_window=true">
 </iframe>
