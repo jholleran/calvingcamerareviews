@@ -5,7 +5,7 @@ subHeading:  "Incorrect Subnet Configuration"
 date:   2018-01-30 23:00:00
 text-color: white
 nav-color: white
-bg-img: main_bg.png
+bg-img: main_bg.jpg
 description: |
   Unable to connect to an IP Camera? This could be an issue with the network subnet configuration on the IP Camera. In this article it explains how to debug and fix this type of issue.
 
@@ -16,7 +16,7 @@ categories: ip camera debug issues
 Ok, so you have just purchased an IP camera and you are ready to set it up. You plug it in correctly to your Router, as instructed, and open a browser and enter the IP address provided in the cameras install instructions and... nothing. You get the dreaded "This site can’t be reached" page.
 
 <figure>
-   <img src="{{site.baseurl}}/img/connection-error-page.png" alt="Connection Error Page" style="width: 60%;">
+   <img src="{{site.baseurl}}/img/connection-error-page.PNG" alt="Connection Error Page" style="width: 60%;">
   <figcaption style="text-align: center;">Connection Error Page</figcaption>
 </figure>
 
