@@ -12,8 +12,15 @@ description: |
 categories: ip camera debug issues
 ---
 
-<h1>Connection Issue</h1>
-Ok, so you have just purchased an IP camera and you are ready to set it up. You plug it in correctly to your Router, as instructed, and open a browser and enter the IP address provided in the cameras install instructions and... nothing. You get the dreaded "This site can’t be reached" page.
+<h1>Unable to connect to IP Camera</h1>
+Ok, so you have just purchased an IP camera and you are ready to set it up. You plug it in correctly to your Router with an Ethernet connection, as in the diagram bellow.
+
+<figure>
+   <img src="{{site.baseurl}}/img/ip-camera-wired-connection-diagram.png" alt="IP Camera connection diagram with RJ45 cable" style="width: 100%;">
+  <figcaption style="text-align: center;">IP Camera Connect to Router</figcaption>
+</figure>
+
+ You open a browser and enter the IP address provided in the cameras install instructions and... nothing. You get the dreaded "This site can’t be reached" page.
 
 <figure>
    <img src="{{site.baseurl}}/img/connection-error-page.PNG" alt="Connection Error Page" style="width: 100%;">
