@@ -16,7 +16,7 @@ categories: ip camera debug issues
 Ok, so you have just purchased an IP camera and you are ready to set it up. You plug it in correctly to your Router, as instructed, and open a browser and enter the IP address provided in the cameras install instructions and... nothing. You get the dreaded "This site can’t be reached" page.
 
 <figure>
-   <img src="{{site.baseurl}}/img/connection-error-page.PNG" alt="Connection Error Page" style="width: 60%;">
+   <img src="{{site.baseurl}}/img/connection-error-page.PNG" alt="Connection Error Page" style="width: 100%;">
   <figcaption style="text-align: center;">Connection Error Page</figcaption>
 </figure>
 
@@ -27,19 +27,19 @@ With your PC connected to the Router open a Command Promt window (In windows 10 
 
 In the shell type ipconfig and hit enter. This command will output details of your PCs Network Adaptors:
 
-   Ethernet adapter Ethernet:
+      Ethernet adapter Ethernet:
 
-      Connection-specific DNS Suffix  . : 
-      IPv4 Address. . . . . . . . . . . : x.x.x.x
-      Subnet Mask . . . . . . . . . . . : x.x.x.x
-      Default Gateway . . . . . . . . . : x.x.x.x
+         Connection-specific DNS Suffix  . : 
+         IPv4 Address. . . . . . . . . . . : x.x.x.x
+         Subnet Mask . . . . . . . . . . . : x.x.x.x
+         Default Gateway . . . . . . . . . : x.x.x.x
 
-   Wireless LAN adapter Wi-Fi:
+      Wireless LAN adapter Wi-Fi:
 
-      Connection-specific DNS Suffix  . : 
-      IPv4 Address. . . . . . . . . . . : x.x.x.x
-      Subnet Mask . . . . . . . . . . . : x.x.x.x
-      Default Gateway . . . . . . . . . : x.x.x.x
+         Connection-specific DNS Suffix  . : 
+         IPv4 Address. . . . . . . . . . . : x.x.x.x
+         Subnet Mask . . . . . . . . . . . : x.x.x.x
+         Default Gateway . . . . . . . . . : x.x.x.x
 
 
 If you are connected to the Router with an Ethernet Cable then look for the following <b>Ethernet adapter Ethernet</b> section or WiFi then look for the following <b>Wireless LAN adapter Wi-Fi</b> section.
@@ -47,10 +47,10 @@ If you are connected to the Router with an Ethernet Cable then look for the foll
 
 For example; Here is a sample of what it might look like.
 
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.1.2
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.1.1
+      Connection-specific DNS Suffix  . : 
+      IPv4 Address. . . . . . . . . . . : 192.168.1.2
+      Subnet Mask . . . . . . . . . . . : 255.255.255.0
+      Default Gateway . . . . . . . . . : 192.168.1.1
 
 Note the Subnet Mask which is set to 255.255.255.0 in the above example. Also, note the IP address of the Default Gateway and the IPv4 Address.
 
@@ -60,28 +60,28 @@ Most cameras come with a Search Tool Wizard that will find the camera on the Net
 An Example:
 Here is an example of a IP Cameras configuration that will prevent a connection:
 
-   IP: 192.168.0.100
-   Subnet: 255.255.255.0
-   Gateway: 192.168.0.255
+      IP: 192.168.0.100
+      Subnet: 255.255.255.0
+      Gateway: 192.168.0.255
 
 
 Lets compare these with the details we got earlier.
 
 
-   PC Config:                    Camera Config:
-   IP: 192.168.1.2               IP: 192.168.0.100
-   Subnet: 255.255.255.0         Subnet: 255.255.255.0
-   Gateway: 192.168.1.1          Gateway: 192.168.0.255
+      PC Config:                    Camera Config:
+      IP: 192.168.1.2               IP: 192.168.0.100
+      Subnet: 255.255.255.0         Subnet: 255.255.255.0
+      Gateway: 192.168.1.1          Gateway: 192.168.0.255
 
 
 There are two things wrong here. First the Gateway set on the camera is wrong. It should be 192.168.1.1 (This is the IP address of the Router). 
 
 Secondly, even though the Subnet Mask are the same the network subnet part of the IP address is different. The subnet mask is used to determine which number from the IP correspond to the subnet. This makes more sense when its converted to binary.
 
-   -Dot-decimal notation-         -Binary form-
-   192.168.1.2          ->       11000000.10101000.00000001.00000010
-   255.255.255.0        ->       11111111.11111111.11111111.00000000
-   Subnet               ->       11000000.10101000.00000001
+      -Dot-decimal notation-         -Binary form-
+      192.168.1.2          ->       11000000.10101000.00000001.00000010
+      255.255.255.0        ->       11111111.11111111.11111111.00000000
+      Subnet               ->       11000000.10101000.00000001
 
 
 
@@ -90,7 +90,7 @@ In this case 255.255.255.0 will mask the first three number from the IP. So the 
 <h2>Step 3: Change the IP address of the IP Camera</h2>
 With the Search Tool set the IP to 192.168.1.100 and the Gateway to 192.168.1.1. Save the changes and restart the Camera. Now that you have changed the IP address use this new IP address in the top search bar of your browser.
 
-For example: http://192.168.1.100
+For example: <a>http://192.168.1.100</a>
 
 All going well you should now be able to connect and view your camera with the browser.
 
