@@ -5,7 +5,7 @@ subHeading:  "Incorrect Subnet Configuration"
 date:   2018-01-30 23:00:00
 text-color: white
 nav-color: white
-bg-img: planet-bg.png
+bg-img: ipconfig-bg.png
 description: |
   Unable to connect to an IP Camera? This could be an issue with the network subnet configuration on the IP Camera. In this article it explains how to debug and fix this type of issue.
 
