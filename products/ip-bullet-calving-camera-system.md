@@ -38,7 +38,7 @@ If you want to get more information about how to set this type of system see the
 
 
 
-###Connection Diagram
+<h2>Connection Diagram</h2>
 Bellow is a connection diagram how the system is setup and connected together.
 
 <figure>
@@ -59,7 +59,7 @@ If the distance between the house and the shed is not that long, for example les
 
 This system can be easily expanded. To add more cameras just plug them into the POE network switch. As long as there are spare ports on the POE network switch then more cameras can be added. So, if you might need more cameras in the future its a good idea to have plenty of spare POE ports on the network switch.
 
-###Kit Includes
+<h2>Kit Includes</h2>
 
 - 2 IP Bullet Camera(s)
 - 2 Wireless Directional Antennas
@@ -81,7 +81,7 @@ This system can be easily expanded. To add more cameras just plug them into the 
 
 If you have any questions about this systems, please feel free to <b><a href="/contact">contact us</a></b>.
 
-##Buying this system through Amazon
+<br/>
 
 Here are links to products on Amazon if you would like to build this system yourself:
 

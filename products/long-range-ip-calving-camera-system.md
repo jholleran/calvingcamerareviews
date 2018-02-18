@@ -42,7 +42,7 @@ Installing this system is a simple DIY job and should take no more than a couple
 
 The system compatible with any PC, Laptop, Tablet or Smartphone and can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-calving-camera-over-the-internet.html">connected to the Internet</a> which allows you to connect to the camera from anywhere on the world, with an Internet connection.
 
-###Features
+<h2>Features</h2>
 - High Quality 2 MegaPixel High Definition Video
 - Pan/Tilt & Zoom Functionality
 - 3x Optical Zoom & Auto-Focus
@@ -55,7 +55,7 @@ The system compatible with any PC, Laptop, Tablet or Smartphone and can be easil
 - Compatible With iOS (iPhone/iPad) & Android
 
 
-###Connection Diagram
+<h2>Connection Diagram</h2>
 Here is a connection diagram of how the full Calving Camera System is connected together.
 <figure>
   <img src="{{site.baseurl}}/img/ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Directional Antennas">
@@ -66,7 +66,7 @@ Here is a connection diagram of how the full Calving Camera System is connected 
 For more information about how to connect up this type of system see this link: <a href="{{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html">IP Wireless Directional Antennas Setup</a>.
 
 
-###Kit Includes
+<h2>Kit Includes</h2>
 
 - 1 IP PTZ Outdoor Camera
 - 2 Wireless Directional Antennas
@@ -87,7 +87,7 @@ For more information about how to connect up this type of system see this link: 
 
 If you have any questions about this systems please feel free to <b><a href="/contact">contact us</a></b>.
 
-##Buying this system through Amazon
+<br/>
 
 Here are links to products on Amazon if you would like to build this system yourself:
 
