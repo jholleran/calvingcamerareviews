@@ -16,7 +16,7 @@ Recently I purchased a HD mini speed PTZ IP camera. I got this camera from Amazo
 
 Here is an Amazon link to this camera:<br>
 
-<a href="https://www.amazon.co.uk/ANNKE-Optical-Security-high-power-infrared/dp/B0179I5PGE/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=Z25E50CW98DJ97M7DJVP&linkCode=li2&tag=calvingcamera-21&linkId=bdb710255d58f0daab74efd0024a40eb" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0179I5PGE&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=calvingcamera-21" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=calvingcamera-21&l=li2&o=2&a=B0179I5PGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B0179I5PGE&asins=B0179I5PGE&linkId=8304bf2d108a0898aa7b384941efd0f1&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
 
