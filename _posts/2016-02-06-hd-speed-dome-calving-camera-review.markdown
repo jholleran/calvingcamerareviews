@@ -15,7 +15,8 @@ categories: review
 Recently I purchased a HD mini speed PTZ IP camera. I got this camera from Amazon where it was reasonably priced. This is a very good camera for using as a calving camera as it is 2.0 megapixels which produces very clear and crisp video images. It also has Pan/Tilt & Zoom (PTZ) functional which is exactly what you need for monitoring your animals.
 
 Here is an Amazon link to this camera:<br>
-<a rel="nofollow" href="http://www.amazon.co.uk/gp/product/B012FQLPG4/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B012FQLPG4&linkCode=as2&tag=calvingcamera-21">SW 1080P HD IP PTZ CCTV camera with 4.5 inch 10x Optical Zoom</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=calvingcamera-21&l=as2&o=2&a=B012FQLPG4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="https://www.amazon.co.uk/ANNKE-Optical-Security-high-power-infrared/dp/B0179I5PGE/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=Z25E50CW98DJ97M7DJVP&linkCode=li2&tag=calvingcamera-21&linkId=bdb710255d58f0daab74efd0024a40eb" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0179I5PGE&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=calvingcamera-21" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=calvingcamera-21&l=li2&o=2&a=B0179I5PGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 
