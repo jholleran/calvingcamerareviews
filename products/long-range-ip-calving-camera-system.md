@@ -58,7 +58,7 @@ The system compatible with any PC, Laptop, Tablet or Smartphone and can be easil
 <h2>Connection Diagram</h2>
 Here is a connection diagram of how the full Calving Camera System is connected together.
 <figure>
-  <img src="{{site.baseurl}}/img/ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Directional Antennas">
+  <img src="{{site.baseurl}}/img/ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Directional Antennas" style="width: 100%;">
   <figcaption style="text-align: center;">IP Calving Camera System with Directional Antennas</figcaption>
 </figure>
 <br>
