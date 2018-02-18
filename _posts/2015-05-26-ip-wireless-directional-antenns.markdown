@@ -50,9 +50,8 @@ These Directional Antennas are power by <a href="http://en.wikipedia.org/wiki/Po
 <h2>Wireless Security</h2>
 Always make sure that the Wireless Security settings (WEP or WPA & WPA2) are set up correctly on these Antennas, and are password protected. This will encrypt the data being sent, to and from the antennas, and prevent other, unwanted guests, from hacking into your network. The radio signal from these Directional Antenna can picked up from a very long distance away so it would be better to be safe.
 
-<h2>Buy On Amazon</h2>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=calvingcamera-21&amp;marketplace=amazon&amp;region=GB&amp;placement=B00I4QK8O0&amp;asins=B00I4QK8O0&amp;linkId=701b49aa00741c1f99eb1191e322c163&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00DCNRTAG&asins=B00DCNRTAG&linkId=8a4015a0bf5f6bb766110db06bfd780c&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
 

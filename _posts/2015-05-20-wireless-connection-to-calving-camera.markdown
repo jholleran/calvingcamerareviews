@@ -26,6 +26,7 @@ Two antennas are fitted outside the two building (Shed and House) facing each ot
 
 The Camera is connected into the Directional Antenna in the Shed and transmits the video, as radio waves, to the other Directional Antenna, which will receive the video, and is connected into the TV to be displayed.
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00DCNRTAG&asins=B00DCNRTAG&linkId=8a4015a0bf5f6bb766110db06bfd780c&show_border=true&link_opens_in_new_window=true"></iframe>
 
 In a later post I will go into detail about the type of Antennas that can be used and how to set them up. If you want to get notifications of these posts you can follow us on Twitter or friend us up on Facebook using the links bellow.
 
